@@ -48,6 +48,11 @@ jobs:
           else
             echo "hugo not installed yet; skipping hugo mod get"
           fi
+          # If theme is still missing, clone Ananke directly as a fallback
+          if [ ! -d themes/ananke ]; then
+            echo "themes/ananke not found — cloning fallback theme"
+            git -c advice.detachedHead=false clone --depth 1 https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke || true
+          fi
 
       - name: Setup Pages
         id: pages
