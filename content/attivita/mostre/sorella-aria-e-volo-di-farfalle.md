@@ -9,13 +9,13 @@ SORELLA ARIA E VOLO DI FARFALLE
 
 SORELLA ARIA E VOLO DI FARFALLE: EVENTO DEL 6 GIUGNO 2013
 
-![](/images/Sorella_Aria.jpg)
+{{< img src="images/Sorella_Aria.jpg" alt="" >}}
 
 ###### SORELLA ARIA
 
 Quest'anno, il 2013, Ã¨ stato dedicato dall'Europa all'ARIA. Il 6 giugno presso lo Spazio La Porta Verde Ã¨ stata inaugurata una mostra di opere dedicate a questo prezioso elemento, a cui non dedichiamo mai abbastanza attenzione.
 
-![](/images/Le_ferite_dell_aria.jpg)
+{{< img src="images/Le_ferite_dell_aria.jpg" alt="" >}}
 
 ###### LE FERITE DELL'ARIA
 
@@ -23,11 +23,11 @@ In questa occasione sono messi in evidenza gli aspetti positivi di questo elemen
   
 Vediamo quindi dopo una prima opera che accenna alla contaminazione, quadri piÃ¹ ottimistici alludenti allo stretto legame tra l'aria, le piante e la vita sulla terra, e un'aria sorridente che danza e ospita le creature forse piÃ¹ leggiadre del mondo che le abitano: le farfalle.
 
-![](/images/Danza_dell_aria.jpg)
+{{< img src="images/Danza_dell_aria.jpg" alt="" >}}
 
 ###### DANZA DELL'ARIA
 
-![](/images/Volo_di_farfalle.jpg)
+{{< img src="images/Volo_di_farfalle.jpg" alt="" >}}
 
 ###### VOLO DI FARFALLE
 
@@ -43,12 +43,12 @@ Tale atteggiamento consegna la pittrice della Porta Verde alla ristretta Ã©lit
 
 Ecco alcune foto dell'evento.
 
-![](/images/DSC02132.JPG)
+{{< img src="images/DSC02132.JPG" alt="" >}}
 
-![](/images/DSC02133.JPG)
+{{< img src="images/DSC02133.JPG" alt="" >}}
 
 ######
 
-![](/images/DSC02136.JPG)
+{{< img src="images/DSC02136.JPG" alt="" >}}
 
-![](/images/DSC02144.JPG)
+{{< img src="images/DSC02144.JPG" alt="" >}}

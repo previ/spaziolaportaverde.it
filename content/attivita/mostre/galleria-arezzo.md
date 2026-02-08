@@ -30,7 +30,7 @@ Il progetto espositivo nasce e si sviluppa intorno a questi elementi principali.
 Nel cammino proposto sono presentate una ventina di opere che illustrano diverse terre distinte per zone geografiche,
 per caratteristiche principali o prevalenti ed associate ad uno degli elementi primordiali e rappresentate da figure femminili.
 
-![](/images/Africa.jpg)
+{{< img src="images/Africa.jpg" alt="" >}}
 
 ###### AFRICA
 
@@ -40,7 +40,7 @@ pur nel dolore, la bellezza del continente stesso attraverso gli accesi colori d
 L'universo femminile sa conservare anche in condizioni estreme l'armonia e la bellezza ma sa anche denunciare con forza la crudeltÃ 
 nel porre in essere lotte cruente tra gruppi contrapposti mettendo a repentaglio la propria sopravvivenza.
 
-![](/images/Amazzonia.jpg)
+{{< img src="images/Amazzonia.jpg" alt="" >}}
 
 ###### AMAZZONIA
 
@@ -48,7 +48,7 @@ L'Acqua Ã¨ rappresentata dall'Amazzonia con il grande Rio delle Amazzoni e la 
 bella e lussureggiante, il sinuoso percorso del Rio delle Amazzoni, creature che vivono in armonia tra loro, ma minacciate da uno sfruttamento
 indiscriminato e dal fuoco che appare minaccioso come elemento distruttivo della foresta, come reale e simbolico attacco alla natura.
 
-![](/images/La_danza_dell_aria_2.jpg)
+{{< img src="images/La_danza_dell_aria_2.jpg" alt="" >}}
 
 ###### DANZA DELL'ARIA
 
@@ -57,52 +57,52 @@ e evitare i danni dell'inquinamento. Nelle opere proposte, la raffigurazione del
 sarÃ  contrapposta alla rappresentazione di spire scure e piÃ¹ gravi che vengono ad alterare equilibri vitali, mettendo l'accento sul problema
 dell'inquinamento.
 
-![](/images/La_nostra_madre_terra.jpg)
+{{< img src="images/La_nostra_madre_terra.jpg" alt="" >}}
 
 ###### LA NOSTRA MADRE TERRA
 
 La Terra Ã¨ ancora rappresentata come grande madre, in cui l'atmosfera sembra ospitarla e proteggerla come se fosse un figlio nel suo grembo.
 
-![](/images/L_abbraccio_delle_piante.jpg)
+{{< img src="images/L_abbraccio_delle_piante.jpg" alt="" >}}
 
 ###### LA MURAGLIA VERDE
 
 In un'altra opera appare ancora protetta e abbracciata, questa volta dalle piante, creature indispensabili per la sua vivibilitÃ .
 
-![](/images/Oro_blu.jpg)
+{{< img src="images/Oro_blu.jpg" alt="" >}}
 
 ###### ACQUA: ORO BLU
 
 L'Acqua, piÃ¹ preziosa dell'oro per la nostra vita e quella di tutti gli esseri viventi, che scorre gioiosa nei ruscelli e maestosa
 nei grandi fiumi, danzando con volute eleganti nel frangersi delle onde.
 
-![](/images/Ghiacciaio_ferito.jpg)
+{{< img src="images/Ghiacciaio_ferito.jpg" alt="" >}}
 
 ###### GHIACCIAIO FERITO
 
 Ma l'inquinamento dell'aria e quindi l'aumento della sua temperatura per effetto serra aggredisce la sua piÃ¹ grande riserva naturale,
 i ghiacciai polari.
 
-![](/images/Il_pianto_di_Olimpia.jpg)
+{{< img src="images/Il_pianto_di_Olimpia.jpg" alt="" >}}
 
 ###### SE LA TERRA BRUCIA
 
-![](/images/Inquinamento.jpg)
+{{< img src="images/Inquinamento.jpg" alt="" >}}
 
 ###### INQUINAMENTO 1
 
 E tra le violenze piÃ¹ subdole Ã¨ l'inquinamento, che ferisce la terra, l'aria e l'acqua, avvelenando per secoli l'ambiente, in una vera
 "crocefissione della natura"
 
-![](/images/Inquinamento_2.jpg)
+{{< img src="images/Inquinamento_2.jpg" alt="" >}}
 
 ###### INQUINAMENTO 2
 
-![](/images/Crocifissione_della_natura.jpg)
+{{< img src="images/Crocifissione_della_natura.jpg" alt="" >}}
 
 ###### CROCEFISSIONE DELLA NATURA
 
-![](/images/Nelle_spire_di_Inquinamento.jpg)
+{{< img src="images/Nelle_spire_di_Inquinamento.jpg" alt="" >}}
 
 ###### NELLE SPIRE DI INQUINAMENTO
 
@@ -116,7 +116,7 @@ E tra le violenze piÃ¹ subdole Ã¨ l'inquinamento, che ferisce la terra, l'ar
   
   
 
-![](/images/Tornado.jpg)
+{{< img src="images/Tornado.jpg" alt="" >}}
 
 ###### TORNADO
 
@@ -130,7 +130,7 @@ E tra le violenze piÃ¹ subdole Ã¨ l'inquinamento, che ferisce la terra, l'ar
   
   
 
-![](/images/Con_le_piante_verso_la_luce.jpg)
+{{< img src="images/Con_le_piante_verso_la_luce.jpg" alt="" >}}
 
 ###### CON LE PIANTE VERSO LA LUCE
 
@@ -144,7 +144,7 @@ E tra le violenze piÃ¹ subdole Ã¨ l'inquinamento, che ferisce la terra, l'ar
   
   
 
-![](/images/Madre_Natura.jpg)
+{{< img src="images/Madre_Natura.jpg" alt="" >}}
 
 ###### MADRE NATURA
 
@@ -158,6 +158,6 @@ E tra le violenze piÃ¹ subdole Ã¨ l'inquinamento, che ferisce la terra, l'ar
   
   
 
-![](/images/Verso_il_sole.jpg)
+{{< img src="images/Verso_il_sole.jpg" alt="" >}}
 
 ###### SICCITA'

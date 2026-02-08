@@ -7,7 +7,7 @@ featured_image: "/images/Dipingere_con_le_parole.jpg"
 
 DIPINGERE CON LE PAROLE
 
-![](/images/Dipingere_con_le_parole.jpg)
+{{< img src="images/Dipingere_con_le_parole.jpg" alt="" >}}
 
 Scrivere poesie con la speranza
   

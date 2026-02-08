@@ -7,23 +7,23 @@ featured_image: "/images/Ballando.jpg"
 
 OMAGGIO ALLA BELLEZZA
 
-[![](/images/Ballando.jpg)](ballando.htm)
+[{{< img src="images/Ballando.jpg" alt="" >}}](ballando.htm)
   
 BALLANDO
 
-[![](/images/Inno_alla_gioia.jpg)](inno alla gioia.htm)
+[{{< img src="images/Inno_alla_gioia.jpg" alt="" >}}](inno alla gioia.htm)
 INNO ALLA GIOIA
 
-[![](/images/Inno_all_amore.jpg)](inno all'amore.htm)  
+[{{< img src="images/Inno_all_amore.jpg" alt="" >}}](inno all'amore.htm)  
 INNO ALL'AMORE
 
-[![](/images/La_creazione.jpg)](la creazione.htm)
+[{{< img src="images/La_creazione.jpg" alt="" >}}](la creazione.htm)
 LA CREAZIONE
 
-[![](/images/La_danza_della_rosa.jpg)](la danza della rosa.htm)  
+[{{< img src="images/La_danza_della_rosa.jpg" alt="" >}}](la danza della rosa.htm)  
 LA DANZA DELLA ROSA
 
 [prec](/gabriella-ventavoli-4/)
 
-[![](/images/Sinfonia_in_rosso.jpg)](sinfonia in rosso.htm)
+[{{< img src="images/Sinfonia_in_rosso.jpg" alt="" >}}](sinfonia in rosso.htm)
 SINFONIA IN ROSSO

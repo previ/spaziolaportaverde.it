@@ -10,6 +10,8 @@ import re
 from pathlib import Path
 
 IMG_RE = re.compile(r'<img\s+([^>]*?)src=(?P<q>["\'])(/images/(?P<src>[^"\']+))(?P=q)([^>]*)>', re.IGNORECASE)
+# markdown image: ![alt](/images/path.jpg "title")
+MD_IMG_RE = re.compile(r"""!\[(?P<alt>[^\]]*)\]\((?P<src>/images/[^)\s]+)(?:\s+(?:"(?P<title>[^"]*)"|'(?P<title2>[^']*)'))?\)""", re.IGNORECASE)
 
 def attrs_from_match(g1, g5):
     # g1 is attributes before src, g5 is attributes after src
@@ -44,9 +46,25 @@ def process_file(path: Path):
     text = path.read_text(encoding='utf-8')
     # group 3 is the full /images/... and group 5 is attributes after src
     new, count = IMG_RE.subn(lambda m: make_shortcode(m.group(3), attrs_from_match(m.group(1), m.group(5))), text)
+    # replace markdown images in .md files
+    md_count = 0
+    if path.suffix.lower() == '.md':
+        def md_repl(m):
+            alt = m.group('alt') or ''
+            src = m.group('src')
+            title = m.group('title') or m.group('title2') or ''
+            attrs = {'alt': alt}
+            if title:
+                attrs['title'] = title
+            return make_shortcode(src, attrs)
+        new, md_count = MD_IMG_RE.subn(md_repl, new)
     if count:
         path.write_text(new, encoding='utf-8')
-        print(f'Updated {count} image(s) in {path}')
+        print(f'Updated {count} HTML <img> image(s) in {path}')
+    if md_count:
+        # if file already written above, overwrite with new (new contains both replacements)
+        path.write_text(new, encoding='utf-8')
+        print(f'Updated {md_count} Markdown image(s) in {path}')
 
 def main():
     root = Path('content')

@@ -7,7 +7,7 @@ featured_image: "/images/La_fame_e_la_violenza.jpg"
 
 FAME E SPRECO
 
-![](/images/La_fame_e_la_violenza.jpg)
+{{< img src="images/La_fame_e_la_violenza.jpg" alt="" >}}
 
   
   
@@ -52,13 +52,13 @@ dedicate ai temi della guerra, della fame, della violenza e del sentimento di pi
   
 Ecco alcune immagini dell'evento.
 
-![](/images/DSC_0076.jpg)
+{{< img src="images/DSC_0076.jpg" alt="" >}}
 
-![](/images/DSC_0078rid.jpg)
+{{< img src="images/DSC_0078rid.jpg" alt="" >}}
 
 ######
 
-![](/images/DSC_0083rid.jpg)
+{{< img src="images/DSC_0083rid.jpg" alt="" >}}
 
 ######
 

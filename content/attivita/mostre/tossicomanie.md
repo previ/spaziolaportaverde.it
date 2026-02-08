@@ -7,7 +7,7 @@ featured_image: "/images/Tossicomanie.jpg"
 
 TOSSICOMANIE UN'EPIDEMIA PSICOSOCIALE
 
-![](/images/Tossicomanie.jpg)
+{{< img src="images/Tossicomanie.jpg" alt="" >}}
 
 La perdita dei sentimenti., l'indifferenza, rappresentano per l'umanitÃ  una grave minaccia.
 Le sostanze stupefacenti, usate per medicare la sofferenza, rendono la mente sempre piÃ¹ sterile, un terreno inquinato dove potranno fiorire immaturitÃ  e violenza.

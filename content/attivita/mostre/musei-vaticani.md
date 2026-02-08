@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Museo_Vaticano_Arte_Contemporanea.png"
 ---
 
-![](/images/Museo_Vaticano_Arte_Contemporanea.png)
+{{< img src="images/Museo_Vaticano_Arte_Contemporanea.png" alt="" >}}
   
 MUSEO VATICANO PER L'ARTE CONTEMPORANEA
 
@@ -13,7 +13,7 @@ DA 'IL GIORNALE.IT' del 2 DICEMBRE 2019
   
   
   
-![](/images/Intestazione.png)
+{{< img src="images/Intestazione.png" alt="" >}}
 
 Gabriella Ventavoli ha donato la Natura Crocifissa a Papa Bergoglio per i Musei Vaticani.
 L'evento si inserisce nel tracciato dell'Enciclica papale "Laudato si'".
@@ -21,7 +21,7 @@ L'evento si inserisce nel tracciato dell'Enciclica papale "Laudato si'".
 Grandioso il telero (La Crocifissione della natura, acrilico su tela, cm. 160Ã—200, 2019),
 di Gabriella Ventavoli, artista da sempre attenta ai temi ambientali, e alla natura violentata e crocifissa.
 
-![](/images/Crocifissione_della_natura.png)
+{{< img src="images/Crocifissione_della_natura.png" alt="" >}}
   
   
 LA CROCIFISSIONE DELLA NATURA
@@ -91,4 +91,4 @@ Carlo Franza
 La Segreteria di Stato del Vaticano ha dato conferma di ricezione con la seguente lettera.
   
 
-![](/images/Risposta_Vaticano_.jpg)
+{{< img src="images/Risposta_Vaticano_.jpg" alt="" >}}

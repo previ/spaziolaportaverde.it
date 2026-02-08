@@ -7,7 +7,7 @@ featured_image: "/images/Oggetto_marino.jpg"
 
 ELEGIA DEL MARE
 
-![](/images/Oggetto_marino.jpg)
+{{< img src="images/Oggetto_marino.jpg" alt="" >}}
   
 Il 28 maggio 2014 Ã© stata inaugurata una personale della pittrice Gabriella Ventavoli, dal titolo "ELEGIA DEL MARE",
 in cui vengono esposte numerose opere ispirate al tema del mare, della sua bellezza ma anche della sua fragilitÃ  non
@@ -22,37 +22,37 @@ Una sua frase riassume ed esprime appropriatamente il tema della mostra:
   
 Ecco alcune immagini dell'evento.
 
-![](/images/DSC02358.JPG)
+{{< img src="images/DSC02358.JPG" alt="" >}}
 
 ######
 
 La pittrice di fronte a "La luce dal mare", "Alba dal mare", "La bellezza del mare"
 
-![](/images/DSC02360.JPG)
+{{< img src="images/DSC02360.JPG" alt="" >}}
 
 ######
 
 "Pianeta blu", "Come vele nel vento" e sotto "Oggetto marino"
 
-![](/images/DSC02362.JPG)
+{{< img src="images/DSC02362.JPG" alt="" >}}
 
 ######
 
 "La vita dal mare" e sotto "La sofferenza del mare"
 
-![](/images/DSC02375.JPG)
+{{< img src="images/DSC02375.JPG" alt="" >}}
 
 ######
 
 La Prof.ssa Marisa Settembrini e alcuni allievi artisti
 
-![](/images/DSC02379.JPG)
+{{< img src="images/DSC02379.JPG" alt="" >}}
 
 ######
 
 Il Prof. Carlo Franza nel corso della presentazione
 
-![](/images/DSC02385.JPG)
+{{< img src="images/DSC02385.JPG" alt="" >}}
 
 ######
 

@@ -1,8 +1,12 @@
 {{ define "main" }}
 <div class="bg-white">
     <!-- Hero Section -->
+    {{ $hero := ("images/Lo_spazio.jpg") | relURL }}
+    {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
+    {{ $bp = strings.TrimRight $bp "/" }}
+    {{ $hero = replaceRE (printf "^%s" $bp) "" $hero }}
     <style>
-    .hero-custom { background-image: url('{{ "images/Lo_spazio.jpg" | relURL }}'); }
+    .hero-custom { background-image: url('{{ $hero }}'); }
     </style>
     <section class="hero-custom pv6 ph3">
         <div class="container-xl tc">
@@ -21,10 +25,14 @@
             <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
                 <div class="card-custom">
                     {{ if .Params.featured_image }}
+                    {{ $img := (.Params.featured_image) | relURL }}
+                    {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
+                    {{ $bp = strings.TrimRight $bp "/" }}
+                    {{ $img = replaceRE (printf "^%s" $bp) "" $img }}
                     <a href="{{ .RelPermalink }}" class="db mb3">
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="db br2 shadow-4">
+                        <img src="{{ $img }}" alt="{{ .Title }}" class="db br2 shadow-4">
                     </a>
-                    </a>
+
                     {{ end }}
                     <span class="card-category">{{ default "Attività" .Params.type_label }}</span>
                     <h3 class="card-title">

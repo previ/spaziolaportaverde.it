@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Logo_grande.png"
 ---
 
-![](/images/Logo_grande.png)
+{{< img src="images/Logo_grande.png" alt="" >}}
   
   
   
@@ -20,7 +20,7 @@ featured_image: "/images/Logo_grande.png"
 **OPERE ESPOSTE**  
   
   
-![](/images/Creativita.JPG)
+{{< img src="images/Creativita.JPG" alt="" >}}
   
   
   
@@ -53,7 +53,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/Il_viola_nella_luce.JPG)
+{{< img src="images/Il_viola_nella_luce.JPG" alt="" >}}
   
   
   
@@ -88,7 +88,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/La_bellezza_dal_mare.JPG)
+{{< img src="images/La_bellezza_dal_mare.JPG" alt="" >}}
   
   
   
@@ -123,7 +123,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/La_forza_del_sole.JPG)
+{{< img src="images/La_forza_del_sole.JPG" alt="" >}}
   
   
   
@@ -159,7 +159,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/La_leggerezza_della_luce.JPG)
+{{< img src="images/La_leggerezza_della_luce.JPG" alt="" >}}
   
   
   
@@ -195,7 +195,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/La_luce_al_tramonto.JPG)
+{{< img src="images/La_luce_al_tramonto.JPG" alt="" >}}
   
   
   
@@ -231,7 +231,7 @@ featured_image: "/images/Logo_grande.png"
   
   
   
-![](/images/La_voce_del_sole.JPG)
+{{< img src="images/La_voce_del_sole.JPG" alt="" >}}
   
   
   

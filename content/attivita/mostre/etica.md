@@ -7,7 +7,7 @@ featured_image: "/images/Etica_fronte.jpg"
 
 ETICA ED ESTETICA PER LA PSICOANALISI
 
-![](/images/Etica_fronte.jpg)
+{{< img src="images/Etica_fronte.jpg" alt="" >}}
 
 Il mondo concettuale della psicoanalisi ha bisogno di ritrovare la propria bellezza e validitÃ , dopo essersi liberato da concezioni superate, pregiudizi e stereotipi culturali.
 Questo libro nasce dalla complessa polifonia di tanti compagni di viaggio: maestri, colleghi e artisti che hanno, pur attraverso lâ€™inevitabile conflittualitÃ  delle vicende umane, contribuito a mantenere viva la speranza nel bene e nel bello.

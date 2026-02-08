@@ -7,6 +7,6 @@ featured_image: "/images/Inquinamento.jpg"
 
 **INQUINAMENTO**   acrilico su tela cm 150x100
 
-![](/images/Inquinamento.jpg)
+{{< img src="images/Inquinamento.jpg" alt="" >}}
 
 Al centro dell'immagine è rappresentata l'anima verde e tenera della natura soffocata nella sua evoluzione dalle spire delle molteplici forme di inquinamento.

@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Logo_grande.png"
 ---
 
-![](/images/Logo_grande.png)
+{{< img src="images/Logo_grande.png" alt="" >}}
   
   
   

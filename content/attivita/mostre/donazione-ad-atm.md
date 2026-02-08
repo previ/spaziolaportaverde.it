@@ -9,11 +9,11 @@ DA 'IL GIORNALE.IT' del 20 SETTEMBRE 2020
   
   
   
-![](/images/Intestazione.png)
+{{< img src="images/Intestazione.png" alt="" >}}
 
 L'artista Gabriella Ventavoli dona l'Opera *La Danza della SolidarietÃ* alla Fondazione ATM di Milano.
 
-![](/images/La_danza_della_solidarieta.jpg)
+{{< img src="images/La_danza_della_solidarieta.jpg" alt="" >}}
   
 LA DANZA DELLA SOLIDARIETA'
 

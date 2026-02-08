@@ -7,32 +7,32 @@ featured_image: "/images/Polittico.jpg"
 
 L'ULTIMA CENA
 
-![](/images/Polittico.jpg)
+{{< img src="images/Polittico.jpg" alt="" >}}
   
 Il 24 Gennaio 2015 Ã© stata inaugurata una personale della pittrice Gabriella Ventavoli, dal titolo "L'ULTIMA CENA".
   
   
 Ecco alcune immagini dell'evento.
 
-![](/images/DSC02557_sito.JPG)
+{{< img src="images/DSC02557_sito.JPG" alt="" >}}
 
 ######
 
 La pittrice di fronte a "L'albero della vita" e "L'ultima foglia"
 
-![](/images/DSC02561_sito.JPG)
+{{< img src="images/DSC02561_sito.JPG" alt="" >}}
 
 ######
 
 La pittrice davanti al polittico "L'ultima cena"
 
-![](/images/DSC02579_sito.JPG)
+{{< img src="images/DSC02579_sito.JPG" alt="" >}}
 
 ######
 
 Il Prof. Franza nel corso della presentazione
 
-![](/images/DSC02580_sito.JPG)
+{{< img src="images/DSC02580_sito.JPG" alt="" >}}
 
 ######
 

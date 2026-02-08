@@ -8,7 +8,7 @@ featured_image: "/images/Piet___nel_mare.JPG"
 SCENARI AL PLUS FLORENCE
   
   
-![](/images/Piet___nel_mare.JPG)
+{{< img src="images/Piet___nel_mare.JPG" alt="" >}}
   
   
 Ha preso il via, allâ€™interno del prestigioso Hotel Plus Florence un nuovo progetto, dal titolo
@@ -26,22 +26,22 @@ PietÃ  nel mare, acrilico su tela cm 50x70
 Ecco alcune altre opere:
   
   
-![](/images/Madonna_del_mare.JPG)  
+{{< img src="images/Madonna_del_mare.JPG" alt="" >}}  
 Madonna del mare, acrilico su tela cm 50x70
   
   
-![](/images/Madonna_universale.JPG)  
+{{< img src="images/Madonna_universale.JPG" alt="" >}}  
 Madonna universale, acrilico su tela cm 50x70
 
 Alcuni momenti della mostra:
   
   
-![](/images/Foto_1.JPG)  
+{{< img src="images/Foto_1.JPG" alt="" >}}  
   
   
   
-![](/images/Foto_2.JPG)  
+{{< img src="images/Foto_2.JPG" alt="" >}}  
   
   
   
-![](/images/Foto_3.JPG)
+{{< img src="images/Foto_3.JPG" alt="" >}}

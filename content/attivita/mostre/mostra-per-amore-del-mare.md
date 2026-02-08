@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Per_amore_del_mare.JPG"
 ---
 
-![](/images/Per_amore_del_mare.JPG)
+{{< img src="images/Per_amore_del_mare.JPG" alt="" >}}
   
   
   
@@ -31,61 +31,61 @@ Ecco alcune immagini dell'evento.
   
   
 
-![](/images/Anvito.JPG)
+{{< img src="images/Anvito.JPG" alt="" >}}
 
 ######
 
 La cartolina d'invito
 
-![](/images/DAV_9469_rid.JPG)
+{{< img src="images/DAV_9469_rid.JPG" alt="" >}}
 
 ######
 
 L'artista di fronte all'opera "Per Amore del Mare"
 
-![](/images/IMG_0508_rid.JPG)
+{{< img src="images/IMG_0508_rid.JPG" alt="" >}}
 
 ######
 
 Opera "Cielo e Mare in Eterna Armonia" vista dalla parte dell'alba
 
-![](/images/IMG_0507_rid.JPG)
+{{< img src="images/IMG_0507_rid.JPG" alt="" >}}
 
 ######
 
 Opera "Cielo e Mare in Eterna Armonia" vista dalla parte della notte
 
-![](/images/DAV_9492_rid.JPG)
+{{< img src="images/DAV_9492_rid.JPG" alt="" >}}
 
 ######
 
 "Giganti 1"
 
-![](/images/DAV_9487_rid.JPG)
+{{< img src="images/DAV_9487_rid.JPG" alt="" >}}
 
 ######
 
 "Giganti 2"
 
-![](/images/DAV_9493_rid.JPG)
+{{< img src="images/DAV_9493_rid.JPG" alt="" >}}
 
 ######
 
 Opere "La bellezza del mare prigioniera" e "Le meduse", appese alle finestre e viste dall'esterno
 
-![](/images/DAV_9494_rid.JPG)
+{{< img src="images/DAV_9494_rid.JPG" alt="" >}}
 
 ######
 
 Opere "L'isola di plastica" e "Se il mare brucia", appese alle finestre e viste dall'esterno
 
-![](/images/DAV_9619_rid.JPG)
+{{< img src="images/DAV_9619_rid.JPG" alt="" >}}
 
 ######
 
 L'artista con il Dott. Nugnes davanti all'ingresso della galleria
 
-![](/images/DAV_9685_rid.JPG)
+{{< img src="images/DAV_9685_rid.JPG" alt="" >}}
 
 ######
 

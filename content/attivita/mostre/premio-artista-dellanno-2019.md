@@ -9,4 +9,4 @@ PREMIUM INTERNATIONAL FLORENCE SEVEN STARS - EDIZIONE 2019
   
 PREMIO DELLA GIURIA A GABRIELLA VENTAVOLI
 
-![](/images/Attestato_artista_dell_anno_2019.jpg)
+{{< img src="images/Attestato_artista_dell_anno_2019.jpg" alt="" >}}

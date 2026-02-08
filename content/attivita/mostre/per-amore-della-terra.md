@@ -7,25 +7,25 @@ featured_image: "/images/Natura_e_Bellezza.jpg"
 
 PER AMORE DELLA TERRA
 
-[![](/images/Natura_e_Bellezza.jpg)](natura e bellezza.htm)  
+[{{< img src="images/Natura_e_Bellezza.jpg" alt="" >}}](natura e bellezza.htm)  
 NATURA E BELLEZZA
 
-[![](/images/Madre_Natura.jpg)](madre natura.htm)  
+[{{< img src="images/Madre_Natura.jpg" alt="" >}}](madre natura.htm)  
 MADRE NATURA
 
-[![](/images/La_forza_degli_alberi.jpg)](la forza degli alberi.htm)  
+[{{< img src="images/La_forza_degli_alberi.jpg" alt="" >}}](la forza degli alberi.htm)  
 LA FORZA DEGLI ALBERI
 
-[![](/images/Natura_Naturans.jpg)](natura naturans.htm)  
+[{{< img src="images/Natura_Naturans.jpg" alt="" >}}](natura naturans.htm)  
 NATURA NATURANS
 
-[![](/images/L_abbraccio_delle_piante.jpg)](l'abbraccio delle piante.htm)  
+[{{< img src="images/L_abbraccio_delle_piante.jpg" alt="" >}}](l'abbraccio delle piante.htm)  
 L'ABBRACCIO DELLE PIANTE
 
-[![](/images/La_Terra_ci_nutre.jpg)](la terra ci nutre.htm)  
+[{{< img src="images/La_Terra_ci_nutre.jpg" alt="" >}}](la terra ci nutre.htm)  
 LA TERRA CI NUTRE
 
-[![](/images/Ultima_cena.jpg)](ultima cena.htm)  
+[{{< img src="images/Ultima_cena.jpg" alt="" >}}](ultima cena.htm)  
 ULTIMA CENA
 
   

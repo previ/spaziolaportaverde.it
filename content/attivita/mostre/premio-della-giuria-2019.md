@@ -5,16 +5,16 @@ draft: false
 featured_image: "/images/Location.jpg"
 ---
 
-![](/images/Location.jpg)
+{{< img src="images/Location.jpg" alt="" >}}
 
 PREMIUM INTERNATIONAL FLORENCE SEVEN STARS - EDIZIONE 2019
   
 PREMIO DELLA GIURIA A GABRIELLA VENTAVOLI
 
-![](/images/Premiazione.jpg)
+{{< img src="images/Premiazione.jpg" alt="" >}}
   
 LA PREMIAZIONE
 
-![](/images/Attestato.jpg)
+{{< img src="images/Attestato.jpg" alt="" >}}
   
 ATTESTATO

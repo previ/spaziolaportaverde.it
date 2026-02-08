@@ -10,32 +10,32 @@ In concomitanza con la
   
   
 
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/Tabellone_Il_mistero_del_mare.jpg)
+{{< img src="images/Tabellone_Il_mistero_del_mare.jpg" alt="" >}}
 IL MISTERO DEL MARE
-![](/images/separatore.jpg)  
+{{< img src="images/separatore.jpg" alt="" >}}  
   
   
   
-![](/images/Tabellone_Dinamismo_del_mare.jpg)
+{{< img src="images/Tabellone_Dinamismo_del_mare.jpg" alt="" >}}
   
   
 L'INSOSTENIBILE DINAMISMO DEL MARE
-![](/images/separatore.jpg)  
+{{< img src="images/separatore.jpg" alt="" >}}  
   
   
-![](/images/Tabellone_Le_pescatrici_di_perle.jpg)
+{{< img src="images/Tabellone_Le_pescatrici_di_perle.jpg" alt="" >}}
   
   
 LE PESCATRICI DI PERLE
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/Tabellone_Venere_dal_mare.jpg)
+{{< img src="images/Tabellone_Venere_dal_mare.jpg" alt="" >}}
 VENERE DEL MARE
   
   
@@ -46,17 +46,17 @@ VENERE DEL MARE
 L'Artista a fianco di alcuni tabelloni
 
   
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/Tabellone_con_Artista_1.jpg)
-![](/images/separatore.jpg)  
+{{< img src="images/Tabellone_con_Artista_1.jpg" alt="" >}}
+{{< img src="images/separatore.jpg" alt="" >}}  
   
   
   
-![](/images/Tabellone_con_Artista_2.jpg)
-![](/images/separatore.jpg)  
+{{< img src="images/Tabellone_con_Artista_2.jpg" alt="" >}}
+{{< img src="images/separatore.jpg" alt="" >}}  
   
   
-![](/images/Tabellone_con_Artista_3.jpg)
+{{< img src="images/Tabellone_con_Artista_3.jpg" alt="" >}}

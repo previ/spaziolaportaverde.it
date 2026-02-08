@@ -20,17 +20,17 @@ le civilta' hanno intorno a questo cibo e bevanda inscenato riti e misteri...
   
 Ecco alcune immagini dell'evento.
 
-![](/images/Vista_1.JPG)
+{{< img src="images/Vista_1.JPG" alt="" >}}
 
 Alcune opere: "La bellezza dal mare", "L'albero della vita", "Madre Natura", "Il martirio della Terra", "L'ultima Foglia"
 
-![](/images/Vista_2.JPG)
+{{< img src="images/Vista_2.JPG" alt="" >}}
 
 ######
 
 Altre opere: "SiccitÃ ", "Le diverse forme dell'acqua"
 
-![](/images/Vista_3.JPG)
+{{< img src="images/Vista_3.JPG" alt="" >}}
 
 ######
 
@@ -39,7 +39,7 @@ Ancora altre opere: "Natura Naturans", "La Primavera" e "La Luce"
   
   
 
-![](/images/L_artista_e_il_critico_1.JPG)
+{{< img src="images/L_artista_e_il_critico_1.JPG" alt="" >}}
 
 ######
 
@@ -48,7 +48,7 @@ L'artista e il critico
   
   
 
-![](/images/L_artista_e_il_critico_2.JPG)
+{{< img src="images/L_artista_e_il_critico_2.JPG" alt="" >}}
 
 ######
 
@@ -57,7 +57,7 @@ Un altro momento dell'evento
   
   
 
-![](/images/L_artista_e_il_critico_3.JPG)
+{{< img src="images/L_artista_e_il_critico_3.JPG" alt="" >}}
 
 ######
 
@@ -66,7 +66,7 @@ Un momento della presentazione.
   
   
 
-![](/images/Alcuni_visitatori.JPG)
+{{< img src="images/Alcuni_visitatori.JPG" alt="" >}}
 
 ######
 

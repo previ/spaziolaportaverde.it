@@ -12,7 +12,7 @@ ALCUNE ISTANTANEE DELL'EVENTO
 La mostra Ã¨ stata allestita al secondo piano della torre del Palazzetto della Fraternita,
 come si vede nelle seguenti fotografie.
 
-![](/images/DSC02184.JPG)
+{{< img src="images/DSC02184.JPG" alt="" >}}
 
 ######
 
@@ -26,51 +26,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC02185.JPG)
-
-######
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-![](/images/DSC02186.JPG)
-
-######
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-![](/images/DSC02187.JPG)
-
-######
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-![](/images/DSC02188.JPG)
+{{< img src="images/DSC02185.JPG" alt="" >}}
 
 ######
 
@@ -86,7 +42,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC02189.JPG)
+{{< img src="images/DSC02186.JPG" alt="" >}}
 
 ######
 
@@ -100,7 +56,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC02190.JPG)
+{{< img src="images/DSC02187.JPG" alt="" >}}
 
 ######
 
@@ -114,21 +70,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC02191.JPG)
-
-######
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-![](/images/DSC02192.JPG)
+{{< img src="images/DSC02188.JPG" alt="" >}}
 
 ######
 
@@ -144,7 +86,65 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05521.JPG)
+{{< img src="images/DSC02189.JPG" alt="" >}}
+
+######
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+{{< img src="images/DSC02190.JPG" alt="" >}}
+
+######
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+{{< img src="images/DSC02191.JPG" alt="" >}}
+
+######
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+{{< img src="images/DSC02192.JPG" alt="" >}}
+
+######
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+{{< img src="images/DSC05521.JPG" alt="" >}}
 
 ###### Sala della presentazione
 
@@ -157,7 +157,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05523.JPG)
+{{< img src="images/DSC05523.JPG" alt="" >}}
 
 ###### La D.ssa Liletta Fornasari introduce il tema della mostra e presenta la pittrice, Gabriella Ventavoli
 
@@ -170,7 +170,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05524.JPG)
+{{< img src="images/DSC05524.JPG" alt="" >}}
 
 ###### Ancora una vista della sala
 
@@ -183,7 +183,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05526.JPG)
+{{< img src="images/DSC05526.JPG" alt="" >}}
 
 ###### Gabriella Ventavoli espone i principi ispirativi delle sue opere
 
@@ -200,7 +200,7 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05527.JPG)
+{{< img src="images/DSC05527.JPG" alt="" >}}
 
 ###### Commento alle varie opere esposte
 
@@ -213,6 +213,6 @@ come si vede nelle seguenti fotografie.
   
   
 
-![](/images/DSC05529.JPG)
+{{< img src="images/DSC05529.JPG" alt="" >}}
 
 ###### Commento alle varie opere esposte

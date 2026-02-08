@@ -9,7 +9,7 @@ MOSTRA PER AMORE DEL MARE 2023
   
   
   
-![](/images/Le_pescatrici_di_perle.jpg)
+{{< img src="images/Le_pescatrici_di_perle.jpg" alt="" >}}
 
 Il Centro Culturale â€œSpazio La Porta Verdeâ€� di Gabriella Ventavoli, medico e artista, compie 10 anni, e li festeggia con una mostra, interamente dedicata
 al mare e alla sacralitÃ  della vita, visitabile a partire dal 4 marzo su appuntamento.
@@ -31,20 +31,20 @@ Altre opere esposte
   
   
 
-![](/images/separatore.jpg)
-![](/images/Fondo_marino.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
+{{< img src="images/Fondo_marino.jpg" alt="" >}}
   
   
 FONDO MARINO
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/Il_mistero_del_mare.jpg)
+{{< img src="images/Il_mistero_del_mare.jpg" alt="" >}}
 IL MISTERO DEL MARE
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
-![](/images/L_insostenibile_dinamismo_del_mare.jpg)
+{{< img src="images/L_insostenibile_dinamismo_del_mare.jpg" alt="" >}}
   
   
 L'INSOSTENIBILE DINAMISMO DEL MARE  
@@ -52,7 +52,7 @@ L'INSOSTENIBILE DINAMISMO DEL MARE
   
   
   
-![](/images/Le_pescatrici_di_perle.jpg)
+{{< img src="images/Le_pescatrici_di_perle.jpg" alt="" >}}
   
   
 LE PESCATRICI DI PERLE
@@ -60,7 +60,7 @@ LE PESCATRICI DI PERLE
   
   
   
-![](/images/Venere_del_mare.jpg)
+{{< img src="images/Venere_del_mare.jpg" alt="" >}}
   
   
   

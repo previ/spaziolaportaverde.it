@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Logo_grande.png"
 ---
 
-![](/images/Logo_grande.png)
+{{< img src="images/Logo_grande.png" alt="" >}}
   
   
   
@@ -46,7 +46,7 @@ Ecco alcune immagini dell'evento.
 
 All'entrata dell'esposizione
 
-![](/images/02_inaugurazione_spoleto_arte.jpg)
+{{< img src="images/02_inaugurazione_spoleto_arte.jpg" alt="" >}}
 
 ######
 
@@ -65,7 +65,7 @@ All'entrata dell'esposizione
 
 La pittrice di fronte a "L'ultima cena"
 
-![](/images/DSC_0035.jpg)
+{{< img src="images/DSC_0035.jpg" alt="" >}}
 
 ######
 
@@ -79,7 +79,7 @@ La pittrice di fronte a "L'ultima cena"
 
 Vittorio Sgarbi commenta "L'ultima Cena"
 
-![](/images/80_inaugurazione_spoleto_arte.jpg)
+{{< img src="images/80_inaugurazione_spoleto_arte.jpg" alt="" >}}
 
 ######
 

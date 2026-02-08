@@ -7,7 +7,7 @@ featured_image: "/images/Prostituta_mia_adorata.jpg"
 
 PROSTITUTA MIA ADORATA
 
-![](/images/Prostituta_mia_adorata.jpg)
+{{< img src="images/Prostituta_mia_adorata.jpg" alt="" >}}
 
 Scrivo poesie
   

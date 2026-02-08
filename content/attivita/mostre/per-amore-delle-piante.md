@@ -7,7 +7,7 @@ featured_image: "/images/9_Sognando_Amazzonia_rid.jpg"
 
 PER AMORE DELLE PIANTE
 
-![](/images/9_Sognando_Amazzonia_rid.jpg)
+{{< img src="images/9_Sognando_Amazzonia_rid.jpg" alt="" >}}
 
 PER AMORE DELLE PIANTE
   
@@ -24,19 +24,19 @@ Le piante, immobili e silenziose, sono sede di processi dinamici straordinari.
 Nelle mie tele ho cercato di rappresentare proprio il dinamismo insito in esse.
   
   
-![](/images/DAV10023.JPG)
+{{< img src="images/DAV10023.JPG" alt="" >}}
   
 L'artista di fronte ad alcune opere
   
   
   
-![](/images/DAV10198.JPG)
+{{< img src="images/DAV10198.JPG" alt="" >}}
   
 Il curatore Dr. Nugnes presenta l'artista e le sue opere
   
   
   
-![](/images/DAV10284.JPG)
+{{< img src="images/DAV10284.JPG" alt="" >}}
   
 Un immagine dell'evento
   
@@ -45,48 +45,48 @@ Un immagine dell'evento
 OPERE ESPOSTE
   
   
-![](/images/1_Olivo_rid.jpg)
+{{< img src="images/1_Olivo_rid.jpg" alt="" >}}
   
 OLIVO
   
   
   
-![](/images/2_Pineta_rid.jpg)
+{{< img src="images/2_Pineta_rid.jpg" alt="" >}}
   
 PINO
   
   
   
-![](/images/3_Limone_rid.jpg)
+{{< img src="images/3_Limone_rid.jpg" alt="" >}}
   
 LIMONE
   
   
   
-![](/images/4_Castagno_rid.jpg)
+{{< img src="images/4_Castagno_rid.jpg" alt="" >}}
   
 CASTAGNO
   
   
   
-![](/images/5_Melo_rid.jpg)
+{{< img src="images/5_Melo_rid.jpg" alt="" >}}
   
 MELO
   
   
   
-![](/images/6_Mimosa_rid.jpg)
+{{< img src="images/6_Mimosa_rid.jpg" alt="" >}}
   
 MIMOSA
   
   
   
-![](/images/7_Magnolia_rid.jpg)
+{{< img src="images/7_Magnolia_rid.jpg" alt="" >}}
   
 MAGNOLIA
   
   
   
-![](/images/8_Platano_rid.jpg)
+{{< img src="images/8_Platano_rid.jpg" alt="" >}}
   
 PLATANO

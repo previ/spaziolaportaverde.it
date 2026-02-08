@@ -7,7 +7,7 @@ featured_image: "/images/Poesie_per_la_vita_2.jpg"
 
 POESIE PER LA VITA VOL 2
 
-![](/images/Poesie_per_la_vita_2.jpg)
+{{< img src="images/Poesie_per_la_vita_2.jpg" alt="" >}}
 
 Il rosso grida,
   

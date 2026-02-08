@@ -9,7 +9,7 @@ GABRIELLA VENTAVOLI
 
 MOSTRA ROSE ROSSE SU DI NOI
 
-![](/images/Mosaico2.jpg)
+{{< img src="images/Mosaico2.jpg" alt="" >}}
   
   
   
@@ -24,22 +24,22 @@ Quest'anno la mostra Ã¨ dedicata al coraggio, alla forza delle donne, in parti
   
   
   
-![](/images/Foto_1.jpg)  
+{{< img src="images/Foto_1.jpg" alt="" >}}  
   
 Anche in questo evento sullo sfondo appare il grande dipinto "Il trionfo della vita", che dÃ  l'avvio alle altre opere, come "Rosse rosse su di noi",
   
   
-![](/images/Foto_8.jpg)  
+{{< img src="images/Foto_8.jpg" alt="" >}}  
   
 in cui l'artista ha voluto rappresentare la forza della donna in continuitÃ  con quello di Madre Terra come il coraggio nel guidare la carica vitale che sorge dal corpo e dalla mente.
   
   
-![](/images/Foto_6.jpg)  
+{{< img src="images/Foto_6.jpg" alt="" >}}  
   
 La mostra continua con l'opera intitolata "La forza della tenerezza", che vince sulla violenza.
   
   
-![](/images/Foto_7.jpg)  
+{{< img src="images/Foto_7.jpg" alt="" >}}  
   
 Nell'opera "Le morti bianche" Ã¨ rappresentato il dolore che segna indelebilmente la vita di tanti.
 
@@ -48,8 +48,8 @@ Nell'opera "Le morti bianche" Ã¨ rappresentato il dolore che segna indelebilme
 Altri momenti dell'evento.
   
   
-![](/images/Foto_9.jpg)  
+{{< img src="images/Foto_9.jpg" alt="" >}}  
   
   
   
-![](/images/Foto_10.jpg)
+{{< img src="images/Foto_10.jpg" alt="" >}}

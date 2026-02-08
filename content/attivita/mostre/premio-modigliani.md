@@ -7,7 +7,7 @@ featured_image: "/images/Palazzo.jpg"
 
 LA PREMIAZIONE
 
-![](/images/Palazzo.jpg)
+{{< img src="images/Palazzo.jpg" alt="" >}}
 
 PREMIO MODIGLIANI 2018
   
@@ -26,20 +26,20 @@ dell'evento e presidente di Spoleto Arte.
 L'artista Gabriella Ventavoli Ã¨ tra gli artisti selezionati.
   
   
-![](/images/foto_1.jpg)
+{{< img src="images/foto_1.jpg" alt="" >}}
   
 I partecipanti alla selezione degli artisti
   
   
-![](/images/foto_2.jpg)
+{{< img src="images/foto_2.jpg" alt="" >}}
   
 L'attestato di selezione
   
   
-![](/images/foto_3.jpg)  
+{{< img src="images/foto_3.jpg" alt="" >}}  
 Il Dr. Salvo Nugnes presenta l'attestato
   
   
-![](/images/Il_corpo_sognato.jpg)
+{{< img src="images/Il_corpo_sognato.jpg" alt="" >}}
   
 L'opera selezionata: Il corpo sognato (Omaggio a Modigliani)

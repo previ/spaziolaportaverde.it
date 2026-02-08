@@ -13,8 +13,12 @@
       <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
         <div class="card-custom bg-white">
           {{ if .Params.featured_image }}
+          {{ $img := (.Params.featured_image) | relURL }}
+          {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
+          {{ $bp = strings.TrimRight $bp "/" }}
+          {{ $img = replaceRE (printf "^%s" $bp) "" $img }}
           <a href="{{ .RelPermalink }}">
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="db ba b--black-10">
+            <img src="{{ $img }}" alt="{{ .Title }}" class="db ba b--black-10">
           </a>
           {{ end }}
           <div class="pv3">

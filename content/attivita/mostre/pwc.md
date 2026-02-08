@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Titolo.JPG"
 ---
 
-![](/images/Titolo.JPG)
+{{< img src="images/Titolo.JPG" alt="" >}}
   
   
 
@@ -38,42 +38,42 @@ Ecco alcune immagini dell'evento.
   
   
 
-![](/images/DSC02816.JPG)
+{{< img src="images/DSC02816.JPG" alt="" >}}
 
 ######
 
 L'immagine di apertura: Africa
 
-![](/images/DSC02809.JPG)
+{{< img src="images/DSC02809.JPG" alt="" >}}
 
 ######
 
 Uno sguardo d'insieme
 
-![](/images/DSC02817.JPG)
+{{< img src="images/DSC02817.JPG" alt="" >}}
 
 ######
 
 La curatrice della mostra, D.ssa Daniela Cravero e l'artista, Gabriella Ventavoli
 
-![](/images/DSC02819.JPG)
+{{< img src="images/DSC02819.JPG" alt="" >}}
 
 ######
 
 Alcuni visitatori
 
-![](/images/DSC02823.JPG)
+{{< img src="images/DSC02823.JPG" alt="" >}}
 
 ######
 
-![](/images/DSC02824.JPG)
+{{< img src="images/DSC02824.JPG" alt="" >}}
 
 ######
 
-![](/images/DSC02827.JPG)
+{{< img src="images/DSC02827.JPG" alt="" >}}
 
 ######
 
-![](/images/DSC02847.JPG)
+{{< img src="images/DSC02847.JPG" alt="" >}}
 
 ######

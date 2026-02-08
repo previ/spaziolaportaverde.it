@@ -8,7 +8,7 @@ featured_image: "/images/circolo-stampa.jpg"
 PALAZZO BOCCONI - MILANO   
  SALA DEGLI SPECCHI
 
-![](/images/circolo-stampa.jpg)
+{{< img src="images/circolo-stampa.jpg" alt="" >}}
 
 PREMIO DELLA CULTURA 2015
   
@@ -25,17 +25,17 @@ all'aver intercettato segnali e umori di un'estetica biblica vitale a salvaguard
 tanto da significarla geniale artista dell'anno."*
   
   
-![](/images/Targa_premio.JPG)
+{{< img src="images/Targa_premio.JPG" alt="" >}}
   
  L'ATTESTATO
   
   
   
-![](/images/La_giuria.JPG)
+{{< img src="images/La_giuria.JPG" alt="" >}}
   
  LA GIURIA
   
   
-![](/images/Artista_sulla_scala.JPG)
+{{< img src="images/Artista_sulla_scala.JPG" alt="" >}}
   
  SULLE SCALE DEL CIRCOLO

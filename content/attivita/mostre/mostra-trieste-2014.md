@@ -7,7 +7,7 @@ featured_image: "/images/Piazza_dell_Unita_.jpg"
 
 LA BELLEZZA DEL VIVERE IN SALUTE E IN AMBIENTI SANI
 
-![](/images/Piazza_dell_Unita_.jpg)
+{{< img src="images/Piazza_dell_Unita_.jpg" alt="" >}}
   
 Il 24 maggio 2014, l'ISDE (International Society of Doctors for the Environment) di Trieste e l'associazione culturale "Rustico nido di rondine" hanno inaugurato una mostra di pittura
 ispirata al tema della bellezza del vivere, quando accompagnato ad ambienti sani che favoriscano una buona salute.
@@ -53,12 +53,12 @@ di tutti gli essere umani, ma al quale gli uomini non sempre dimostrano la dovut
   
 Ecco alcune istantanee dell'evento.
   
-![](/images/DSC_0122_Presentazione.jpg)
+{{< img src="images/DSC_0122_Presentazione.jpg" alt="" >}}
 Un momento della presentazione da parte del Dr. Bossi di ISDE: da sinistra la pittrice d.ssa Gabriella Ventavoli, la d.ssa Paola Sbisa', il Dr. Dario Bossi, l'artista Graziano Romio
   
-![](/images/DSC_0125_Paola_Sbisa_.jpg)
+{{< img src="images/DSC_0125_Paola_Sbisa_.jpg" alt="" >}}
 La Dr. SbisÃ  mentre espone il suo pensiero critico sulle opere esposte.
   
-![](/images/DSC_0129_La_pittrice.jpg)
+{{< img src="images/DSC_0129_La_pittrice.jpg" alt="" >}}
   
 Un'immagine della pittrice ripresa fra le sue opere

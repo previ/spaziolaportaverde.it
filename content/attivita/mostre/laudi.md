@@ -7,7 +7,7 @@ featured_image: "/images/Plus_Berlin.jpg"
 
 LAUDI DEL CIELO, DEL MARE E DELLA TERRA E ALTRE STORIE
 
-![](/images/Plus_Berlin.jpg)
+{{< img src="images/Plus_Berlin.jpg" alt="" >}}
 
 Il grande e poderoso edificio neogotico del "PLUS BERLIN", giÃ  sede di una famosa scuola tedesca di design, attualmente
 punto di ritrovo di giovani di tutto il mondo con una presenza costante di artisti emergenti.
@@ -22,18 +22,18 @@ dell'uomo, la violenza della societÃ  industriale e post-industriale, il prelu
   
 Ecco alcune immagini dell'evento.
 
-![](/images/L_artista_con_alcune_opere_1.jpg)
+{{< img src="images/L_artista_con_alcune_opere_1.jpg" alt="" >}}
 
 La pittrice di fronte a "Vulcano". A sinistra parte di "Inquinamento" e a destra "La nostra madre terra" e
 "La bellezza dal mare"
 
-![](/images/L_artista_con_alcune_opere_2.jpg)
+{{< img src="images/L_artista_con_alcune_opere_2.jpg" alt="" >}}
 
 ######
 
 La pittrice tra "Se il mare si scalda" e "La sofferenza del mare"
 
-![](/images/L_artista_con_alcune_opere_3.jpg)
+{{< img src="images/L_artista_con_alcune_opere_3.jpg" alt="" >}}
 
 ######
 
@@ -42,7 +42,7 @@ Ancora l'artista di fronte a "La danza dell'aria", "la forza del sole" e "Adamo 
   
   
 
-![](/images/Lato_sala_1.jpg)
+{{< img src="images/Lato_sala_1.jpg" alt="" >}}
 
 ######
 
@@ -51,7 +51,7 @@ Uno scorcio della "Sala Hoffmann"
   
   
 
-![](/images/Lato_sala_2.jpg)
+{{< img src="images/Lato_sala_2.jpg" alt="" >}}
 
 ######
 
@@ -60,7 +60,7 @@ Ancora la "Sala Hoffmann"
   
   
 
-![](/images/Ritratti_di_uomini.jpg)
+{{< img src="images/Ritratti_di_uomini.jpg" alt="" >}}
 
 ######
 
@@ -69,7 +69,7 @@ Ritratto di uomini
   
   
 
-![](/images/Nascita_delle_stelle.jpg)
+{{< img src="images/Nascita_delle_stelle.jpg" alt="" >}}
 
 ######
 

@@ -14,15 +14,15 @@ SPOLETO ARTE 2017-PREMIO SGARBI
 Nella splendida cornice della grande sala del Palazzo Leti Sansi, a Spoleto, si Ã¨ svolta la videoproiezione
 delle opere esposte nelle varie ali del palazzo. La pittrice Gabriella Ventavoli era presente anche quest'anno, come nelle due esizioni precedenti dell'evento, con sette opere di
 grande formato, accolte molto favorevolmente dalla critica, tanto da meritare l'ambito "Premio Sgarbi"  
-![](/images/Sala_conferenze.jpg)
+{{< img src="images/Sala_conferenze.jpg" alt="" >}}
 
 Sala conferenze
 
-![](/images/gabriella-ventavoli-premio-sgarbi-06.jpg)
+{{< img src="images/gabriella-ventavoli-premio-sgarbi-06.jpg" alt="" >}}
 
 Attestato del Premio Sgarbi
 
-![](/images/SPOLETO_ARTE_2017_284.jpg)
+{{< img src="images/SPOLETO_ARTE_2017_284.jpg" alt="" >}}
 
 Il Critico d'Arte Prof. Vittorio Sgarbi e il Presidente della mostra Dr. Salvo Nugnes, accanto ad uno dei quadri esposti
 alla mostra "SPOLETO ARTE 2017", dal titolo "La pescatrice di perle" , presso il Palazzo Leti Sansi, Via Arco di Druso, 37 Spoleto (PG).
@@ -34,30 +34,30 @@ Paola Severini della Rai, Sonia Laura TatÃ² produttrice e scrittrice e Patrick
 
 Di seguito le immagini delle opere esposte.
 
-![](/images/0322_Trionfo_della_luce_1rid.jpg)
+{{< img src="images/0322_Trionfo_della_luce_1rid.jpg" alt="" >}}
 
 Trionfo della luce 1
 
-![](/images/0323_Trionfo_della_luce_2rid.jpg)
+{{< img src="images/0323_Trionfo_della_luce_2rid.jpg" alt="" >}}
 
 Trionfo della luce 2
 
-![](/images/0324_Trionfo_della_luce_3rid.jpg)
+{{< img src="images/0324_Trionfo_della_luce_3rid.jpg" alt="" >}}
 
 Trionfo della luce 3
 
-![](/images/Come_vele_nel_ventorid.jpg)
+{{< img src="images/Come_vele_nel_ventorid.jpg" alt="" >}}
 
 Come vele nel vento
 
-![](/images/La_sirenarid.jpg)
+{{< img src="images/La_sirenarid.jpg" alt="" >}}
 
 La Sirena
 
-![](/images/La_vita_dal_marerid.jpg)
+{{< img src="images/La_vita_dal_marerid.jpg" alt="" >}}
 
 La vita dal mare
 
-![](/images/Le_pescatrici_di_perlerid.jpg)
+{{< img src="images/Le_pescatrici_di_perlerid.jpg" alt="" >}}
 
 Le pescatrici di perle

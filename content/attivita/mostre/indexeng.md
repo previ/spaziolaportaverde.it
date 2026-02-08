@@ -21,7 +21,7 @@ tel: +39 348 22 56 161
 * [**NEWS**](/novita-172/)
 * [**CONTACTS**](/contatti-173/)
 
-![](/images/sfondo.jpg)
-[![](/images/blogger.png)](http://www.kaliaunosguardodallospazio.it)
-[![](/images/facebook.png)](https://www.facebook.com/kalia.dallospazio?ref=tn_tnmn)
-[![](/images/Flagitaridotta.jpg)](/home-72/)
+{{< img src="images/sfondo.jpg" alt="" >}}
+[{{< img src="images/blogger.png" alt="" >}}](http://www.kaliaunosguardodallospazio.it)
+[{{< img src="images/facebook.png" alt="" >}}](https://www.facebook.com/kalia.dallospazio?ref=tn_tnmn)
+[{{< img src="images/Flagitaridotta.jpg" alt="" >}}](/home-72/)

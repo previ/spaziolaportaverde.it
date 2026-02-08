@@ -7,37 +7,37 @@ featured_image: "/images/Dinamismo_1.jpg"
 
 LINEE DINAMICHE
 
-[![](/images/Dinamismo_1.jpg)](dinamismo 1.htm)
+[{{< img src="images/Dinamismo_1.jpg" alt="" >}}](dinamismo 1.htm)
 DINAMISMO 1
 
-[![](/images/Dinamismo_2.jpg)](dinamismo 2.htm)
+[{{< img src="images/Dinamismo_2.jpg" alt="" >}}](dinamismo 2.htm)
 DINAMISMO 2
 
-[![](/images/All_alba.jpg)](all'alba.htm)
+[{{< img src="images/All_alba.jpg" alt="" >}}](all'alba.htm)
 ALL'ALBA
 
-[![](/images/Fiore_d_acciaio.jpg)](fiore d'acciaio.htm)
+[{{< img src="images/Fiore_d_acciaio.jpg" alt="" >}}](fiore d'acciaio.htm)
 FIORE D'ACCIAIO
 
-[![](/images/Fiore_marino.jpg)](fiore marino.htm)
+[{{< img src="images/Fiore_marino.jpg" alt="" >}}](fiore marino.htm)
 FIORE MARINO
 
-[![](/images/Dinamismo_3.jpg)](dinamismo 3.htm)
+[{{< img src="images/Dinamismo_3.jpg" alt="" >}}](dinamismo 3.htm)
 DINAMISMO 3
 
-[![](/images/Dinamismo_4.jpg)](dinamismo 4.htm)
+[{{< img src="images/Dinamismo_4.jpg" alt="" >}}](dinamismo 4.htm)
 DINAMISMO 4
 
-[![](/images/Dinamismo_5.jpg)](dinamismo 5.htm)
+[{{< img src="images/Dinamismo_5.jpg" alt="" >}}](dinamismo 5.htm)
 DINAMISMO 5
 
-[![](/images/Dinamismo_6.jpg)](dinamismo 6.htm)
+[{{< img src="images/Dinamismo_6.jpg" alt="" >}}](dinamismo 6.htm)
 DINAMISMO 6
 
 [prec](/gabriella-ventavoli-4/)
 
-[![](/images/Spinta_vitale.jpg)](spinta vitale.htm)  
+[{{< img src="images/Spinta_vitale.jpg" alt="" >}}](spinta vitale.htm)  
 SPINTA VITALE
 
-[![](/images/Dinamismo_7.jpg)](dinamismo 7.htm)  
+[{{< img src="images/Dinamismo_7.jpg" alt="" >}}](dinamismo 7.htm)  
 DINAMISMO 7

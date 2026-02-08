@@ -7,7 +7,7 @@ featured_image: "/images/Poesie_per_la_vita_1.jpg"
 
 POESIE PER LA VITA VOL 1
 
-![](/images/Poesie_per_la_vita_1.jpg)
+{{< img src="images/Poesie_per_la_vita_1.jpg" alt="" >}}
 
 Come sangue nelle vene,
   

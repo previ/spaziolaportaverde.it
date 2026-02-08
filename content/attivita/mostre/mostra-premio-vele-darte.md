@@ -9,11 +9,11 @@ MOSTRA-PREMIO VELE D'ARTE
   
   
   
-![](/images/Premio_Vele_d_Arte.jpg)
+{{< img src="images/Premio_Vele_d_Arte.jpg" alt="" >}}
   
   
   
-![](/images/Trofeo.jpg)
+{{< img src="images/Trofeo.jpg" alt="" >}}
 
   
   
@@ -21,48 +21,48 @@ MOSTRA-PREMIO VELE D'ARTE
   
 OPERE ESPOSTE
 
-![](/images/separatore.jpg)
-![](/images/Danze_nel_mare_1.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
+{{< img src="images/Danze_nel_mare_1.jpg" alt="" >}}
   
   
 DANZE NEL MARE
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/Fiori_marini.jpg)
+{{< img src="images/Fiori_marini.jpg" alt="" >}}
 FIORI MARINI
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
-![](/images/La_bellezza_dal_mare.jpg)
+{{< img src="images/La_bellezza_dal_mare.jpg" alt="" >}}
   
   
 LA BELLEZZA DAL MARE  
   
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
-![](/images/La_grande_onda.jpg)
+{{< img src="images/La_grande_onda.jpg" alt="" >}}
   
   
 LA GRANDE ONDA
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
   
-![](/images/Mare_e_Terra_in_armonia.jpg)
+{{< img src="images/Mare_e_Terra_in_armonia.jpg" alt="" >}}
   
   
   
 MARE E TERRA IN ARMONIA
-![](/images/separatore.jpg)
+{{< img src="images/separatore.jpg" alt="" >}}
   
   
   
   
-![](/images/Oro_blu.jpg)
+{{< img src="images/Oro_blu.jpg" alt="" >}}
   
   
   

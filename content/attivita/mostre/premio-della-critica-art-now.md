@@ -14,13 +14,13 @@ PREMIO DELLA CRITICA ART NOW
 OPERE PROPOSTE
   
   
-![](/images/Sognando_Amazzonia.jpg)   
+{{< img src="images/Sognando_Amazzonia.jpg" alt="" >}}   
  SOGNANDO AMAZZONIA
   
   
-![](/images/Il_trionfo_della_Natura.jpg)  
+{{< img src="images/Il_trionfo_della_Natura.jpg" alt="" >}}  
 IL TRIONFO DELLA NATURA
   
   
-![](/images/L_olocausto_della_Natura.jpg)  
+{{< img src="images/L_olocausto_della_Natura.jpg" alt="" >}}  
 L'OLOCAUSTO DELLA NATURA

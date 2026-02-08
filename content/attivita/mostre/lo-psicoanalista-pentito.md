@@ -7,7 +7,7 @@ featured_image: "/images/Lo_psicoanalista_pentito.jpg"
 
 LO PSICOANALISTA PENTITO
 
-![](/images/Lo_psicoanalista_pentito.jpg)
+{{< img src="images/Lo_psicoanalista_pentito.jpg" alt="" >}}
 
 ...Improvvisamente mi sono sentita una piccolissima cosa, ma non insignificante, di fronte a tutta quella straordinaria bellezza.
   

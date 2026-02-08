@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Immagine_invito.jpg"
 ---
 
-![](/images/Immagine_invito.jpg)
+{{< img src="images/Immagine_invito.jpg" alt="" >}}
   
   
   
@@ -441,7 +441,7 @@ nell'arcano destino della vita.
 
 Preparandosi all'esposizione
 
-![](/images/DSC02726.JPG)
+{{< img src="images/DSC02726.JPG" alt="" >}}
 
 ######
 
@@ -460,7 +460,7 @@ Preparandosi all'esposizione
 
 Il Prof. Franza introduce i poeti
 
-![](/images/DSC02733.JPG)
+{{< img src="images/DSC02733.JPG" alt="" >}}
 
 ######
 
@@ -479,6 +479,6 @@ Il Prof. Franza introduce i poeti
 
 Un momento della lettura di poesie
 
-![](/images/DSC02741.JPG)
+{{< img src="images/DSC02741.JPG" alt="" >}}
 
 ######

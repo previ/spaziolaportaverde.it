@@ -9,11 +9,11 @@ DA 'IL GIORNALE.IT' del 6 APRILE 2021
   
   
   
-![](/images/Intestazione.png)
+{{< img src="images/Intestazione.png" alt="" >}}
 
 Lâ€™opera â€œLa Pandemiaâ€� di Gabriella Ventavoli nella Collezione di Arte Contemporanea dello Storico Liceo Statale di Brera a Milano.
 
-![](/images/La_Pandemia.jpg)
+{{< img src="images/La_Pandemia.jpg" alt="" >}}
   
 LA PANDEMIA
 
@@ -27,7 +27,7 @@ Lâ€™opera, palesando una personalissima declinazione al dramma epidemico co
   
   
   
-![](/images/Installazione.jpg)
+{{< img src="images/Installazione.jpg" alt="" >}}
   
 E ancora una volta lâ€™arte cui si innerva anche lâ€™altissimo lavoro di Gabriella Ventavoli- risponde a questo richiamo, non piÃ¹ col suo valore documentale, ma con altri significati: lâ€™ironia, come nel muralesÂ Lâ€™amore ai tempi del Covid-19,Â in cui il bacio diÂ HayezÂ viene traformato in un bacio con mascherina e amuchina dal sarcastico TvBoy; un omaggio, come quello diÂ Milo Manara, con lâ€™immagine di unâ€™infermiera che Ã¨ pronta alla lotta di fronte al gigantesco virus, lei non arretra, non lascia spazio al contagio. Un immenso tributo a chi lotta per tutti contro il virus, ma anche alla forza delle donne, soggetto preferito del grande fumettista. Lâ€™arte oggi si mette anche al servizio della campagna â€œIo resto a casaâ€�, come testimonia il collageÂ Sweet HomeÂ diÂ Nello Petrucci, che invita a restare a casa usando lâ€™iconica famiglia Simpson, o ancheÂ  il messaggio socio-politico diÂ Vanni Cuoghi,Â che pubblica sui social i suoi acquerelli in formato cartolina, documentando lâ€™attualitÃ  e lanciando un monito chiaro: il virus si sconfigge solo se tutti i Paesi prenderanno su di sÃ© una parte di responsabilitÃ . Lo fa, ad esempio, con â€œDilaganteâ€�, lâ€™immagine in cui utilizza il simbolo della superstizione, il gatto nero. Il suo messaggio Ã¨ forte e chiaro: questa epidemia Ã¨ pericolosa, dilagante appunto, nata dalla Cina, ma arrivata ovunque, come la pittura rossa fuoriuscita dal barattolo. Ma questo non significa che essa Ã¨ cinese, nÃ© italiana, ma appartiene a tutti e solo insieme potrÃ  essere sconfitta.Â Da aggiungere, infine, che da anni Gabriella VentavoliÂ Â si occupaÂ Â  di declinare allâ€™interno del suo percorso artistico il nobile capitolo di problematiche sociali e ambientali; opere che puntano il dito sul non rispetto dellâ€™ambiente, sulla natura violentata dallâ€™uomo, sul Â verde e sulle foreste distrutte, sul Â mondo calpestato e inquinato; sui cieli,Â  sulle acque, Â sullâ€™aria, e sui ghiacciai, ormai allo stremo. Â 
 Confessa la Ventavoli: â€œ Con lâ€™ultima opera desidero sottolineare come anche disastrosi cambiamenti climatici abbiano contribuito allâ€™insorgere della pandemia. I ghiacciai stanno collassando per il riscaldamento globale, il polmone verde della terra Ã¨ dato sistematicamente alle fiamme, dunque lâ€™aria che respiriamo Ã¨ sempre piÃ¹ inquinata. Sullâ€™umanitÃ  incombe la cupa minaccia della pandemia, di cui siamo anche responsabili, e che potrebbe ripetersi se non saremo in grado di modificare profondamente il nostro modo di convivere con Madre Naturaâ€�.

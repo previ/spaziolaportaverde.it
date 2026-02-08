@@ -7,7 +7,7 @@ featured_image: "/images/Attestato_Premio_Biennale_Sgarbi.jpg"
 
 PREMIO BIENNALE SGARBI 2019
 
-![](/images/Attestato_Premio_Biennale_Sgarbi.jpg)
+{{< img src="images/Attestato_Premio_Biennale_Sgarbi.jpg" alt="" >}}
   
 ATTESTATO DEL PREMIO
   
@@ -17,17 +17,17 @@ ATTESTATO DEL PREMIO
 OPERE ESPOSTE
   
   
-![](/images/Calliope.jpg)   
+{{< img src="images/Calliope.jpg" alt="" >}}   
  CALLIOPE
   
   
-![](/images/Quando_l_amore_ferisce.jpg)  
+{{< img src="images/Quando_l_amore_ferisce.jpg" alt="" >}}  
 QUANDO L'AMORE FERISCE
   
   
-![](/images/La_torera.jpg)  
+{{< img src="images/La_torera.jpg" alt="" >}}  
 LA TORERA
   
   
-![](/images/Sognando_la_liberta_.jpg)  
+{{< img src="images/Sognando_la_liberta_.jpg" alt="" >}}  
 SOGNANDO LA LIBERTA'

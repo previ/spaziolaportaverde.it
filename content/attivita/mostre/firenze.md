@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Palazzoborghese.JPG"
 ---
 
-![](/images/Palazzoborghese.JPG)
+{{< img src="images/Palazzoborghese.JPG" alt="" >}}
 
 Ha preso il via, all'interno dello storico Palazzo Borghese di Firenze il nuovo progetto, dal titolo
   
@@ -25,7 +25,7 @@ Prof. Carlo Franza.
   
   
   
-![](/images/La_bellezza_del_mare.JPG)
+{{< img src="images/La_bellezza_del_mare.JPG" alt="" >}}
   
   
   
@@ -100,7 +100,7 @@ Ecco alcune immagini dell'evento.
 
 All'entrata dell'esposizione
 
-![](/images/DSC_0022.jpg)
+{{< img src="images/DSC_0022.jpg" alt="" >}}
 
 ######
 

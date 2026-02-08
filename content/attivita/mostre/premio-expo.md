@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Targa_premio_EXPO.JPG"
 ---
 
-![](/images/Targa_premio_EXPO.JPG)
+{{< img src="images/Targa_premio_EXPO.JPG" alt="" >}}
   
   
 

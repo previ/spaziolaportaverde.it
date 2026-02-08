@@ -7,7 +7,7 @@ featured_image: "/images/Pieta_.jpg"
 
 VIOLENZA SULLE DONNE E L'INFANZIA
 
-![](/images/Pieta_.jpg)
+{{< img src="images/Pieta_.jpg" alt="" >}}
   
 Il 22 Febbraio il Centro Culturale La Porta Verde, in continuitÃ  con il precedente evento del 18 Gennaio dedicato alla tutela dell'ambiente: **foreste, aria, acqua**, prosegue con una nuova proposta espositiva incentrata sul valore della vita, in opposizione alla violenza che oggi viene drammaticamente perpetrata nei confronti delle **donne** e dell'**infanzia**.
   

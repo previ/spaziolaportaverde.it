@@ -11,7 +11,7 @@ Donne contro la violenza
   
  22 Marzo 2014
 
-![](/images/Malala.JPG)  
+{{< img src="images/Malala.JPG" alt="" >}}  
 MALALA
   
   
@@ -39,16 +39,16 @@ La parete bianca esalta questo mondo di delicati segni (nei quali spesso i toni 
 Ecco alcune immagini dell'evento:
   
   
-![](/images/DSC02260.JPG)
+{{< img src="images/DSC02260.JPG" alt="" >}}
   
   
   
-![](/images/DSC02265.JPG)
+{{< img src="images/DSC02265.JPG" alt="" >}}
   
   
   
-![](/images/DSC02267.JPG)
+{{< img src="images/DSC02267.JPG" alt="" >}}
   
   
   
-![](/images/DSC02271.JPG)
+{{< img src="images/DSC02271.JPG" alt="" >}}

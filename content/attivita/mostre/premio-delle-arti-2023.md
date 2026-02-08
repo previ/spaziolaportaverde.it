@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Targa.jpg"
 ---
 
-![](/images/Targa.jpg)
+{{< img src="images/Targa.jpg" alt="" >}}
 
 PREMIO DELLE ARTI - PREMIO DELLA CULTURA 2023
   
@@ -16,4 +16,4 @@ In occasione della XXXVa edizione del "Premio della Cultura/Premio delle Arti", 
 riguardanti la terra, l'aria e in particolare l'acqua come elemento fondamentale per la vita di tutti gli esseri viventi.
   
   
-![](/images/Foto_dell_Artista.jpg)
+{{< img src="images/Foto_dell_Artista.jpg" alt="" >}}

@@ -7,8 +7,8 @@ featured_image: "/images/Gabriella_Ventavoli-01rid.jpg"
 
 PREMIO PRO BIENNALE 2017
 
-![](/images/Gabriella_Ventavoli-01rid.jpg)
+{{< img src="images/Gabriella_Ventavoli-01rid.jpg" alt="" >}}
   
   
   
-![](/images/Gabriella_Ventavoli.jpg)
+{{< img src="images/Gabriella_Ventavoli.jpg" alt="" >}}

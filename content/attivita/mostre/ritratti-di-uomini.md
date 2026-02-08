@@ -7,76 +7,76 @@ featured_image: "/images/Ambiguita__1.jpg"
 
 RITRATTI DI UOMINI
 
-[![](/images/Ambiguita__1.jpg)](ambiguita' 1.htm)  
+[{{< img src="images/Ambiguita__1.jpg" alt="" >}}](ambiguita' 1.htm)  
 AMBIGUITA' 1
 
-[![](/images/Ambiguita__2.jpg)](ambiguita' 2.htm)  
+[{{< img src="images/Ambiguita__2.jpg" alt="" >}}](ambiguita' 2.htm)  
 AMBIGUITA' 2
 
-[![](/images/Arabo.jpg)](arabo.htm)  
+[{{< img src="images/Arabo.jpg" alt="" >}}](arabo.htm)  
 ARABO
 
-[![](/images/Cristo_delle_rocce.jpg)](cristo delle rocce.htm)  
+[{{< img src="images/Cristo_delle_rocce.jpg" alt="" >}}](cristo delle rocce.htm)  
 CRISTO DELLE ROCCE
 
-[![](/images/Il_ballerino.jpg)](il ballerino.htm)  
+[{{< img src="images/Il_ballerino.jpg" alt="" >}}](il ballerino.htm)  
 IL BALLERINO
 
-[![](/images/Il_guerriero.jpg)](il guerriero.htm)  
+[{{< img src="images/Il_guerriero.jpg" alt="" >}}](il guerriero.htm)  
 IL GUERRIERO
 
-[![](/images/Il_magistrato.jpg)](il magistrato.htm)  
+[{{< img src="images/Il_magistrato.jpg" alt="" >}}](il magistrato.htm)  
 IL MAGISTRATO
 
-[![](/images/Il_manager.jpg)](il manager.htm)  
+[{{< img src="images/Il_manager.jpg" alt="" >}}](il manager.htm)  
 IL MANAGER
 
-[![](/images/Il_pensatore.jpg)](il pensatore.htm)  
+[{{< img src="images/Il_pensatore.jpg" alt="" >}}](il pensatore.htm)  
 IL PENSATORE
 
-[![](/images/Il_pentito.jpg)](il pentito.htm)  
+[{{< img src="images/Il_pentito.jpg" alt="" >}}](il pentito.htm)  
 IL PENTITO
 
-[![](/images/Il_prete.jpg)](il prete.htm)  
+[{{< img src="images/Il_prete.jpg" alt="" >}}](il prete.htm)  
 IL PRETE
 
-[![](/images/Il_pugile.jpg)](il pugile.htm)  
+[{{< img src="images/Il_pugile.jpg" alt="" >}}](il pugile.htm)  
 IL PUGILE
 
-[![](/images/Il_tossicomane.jpg)](il tossicomane.htm)  
+[{{< img src="images/Il_tossicomane.jpg" alt="" >}}](il tossicomane.htm)  
 IL TOSSICOMANE
 
-[![](/images/Killer.jpg)](killer.htm)  
+[{{< img src="images/Killer.jpg" alt="" >}}](killer.htm)  
 KILLER
 
-[![](/images/L_abbraccio.jpg)](l'abbraccio.htm)  
+[{{< img src="images/L_abbraccio.jpg" alt="" >}}](l'abbraccio.htm)  
 L'ABBRACCIO
 
-[![](/images/L_adolescente.jpg)](l'adolescente.htm)  
+[{{< img src="images/L_adolescente.jpg" alt="" >}}](l'adolescente.htm)  
 L'ADOLESCENTE
 
-[![](/images/L_attesa.jpg)](l'attesa.htm)  
+[{{< img src="images/L_attesa.jpg" alt="" >}}](l'attesa.htm)  
 L'ATTESA
 
-[![](/images/L_uomo_che_fuma.jpg)](l'uomo che fuma.htm)  
+[{{< img src="images/L_uomo_che_fuma.jpg" alt="" >}}](l'uomo che fuma.htm)  
 L'UOMO CHE FUMA
 
-[![](/images/L_uomo_con_la_camicia.jpg)](l'uomo con la camicia.htm)  
+[{{< img src="images/L_uomo_con_la_camicia.jpg" alt="" >}}](l'uomo con la camicia.htm)  
 L'UOMO CON LA CAMICIA
 
-[![](/images/Nudo_di_uomo.jpg)](nudo di uomo.htm)  
+[{{< img src="images/Nudo_di_uomo.jpg" alt="" >}}](nudo di uomo.htm)  
 NUDO DI UOMO
 
-[![](/images/Spinta_vitale.jpg)](spinta vitale.htm)  
+[{{< img src="images/Spinta_vitale.jpg" alt="" >}}](spinta vitale.htm)  
 SPINTA VITALE
 
 [prec](/gabriella-ventavoli-4/)
 
-[![](/images/Corsa_nella_nebbia.jpg)](corsa nella nebbia.htm)  
+[{{< img src="images/Corsa_nella_nebbia.jpg" alt="" >}}](corsa nella nebbia.htm)  
 CORSA NELLA NEBBIA
 
-[![](/images/Paternita_.jpg)](paternita'.htm)  
+[{{< img src="images/Paternita_.jpg" alt="" >}}](paternita'.htm)  
 PATERNITA'
 
-[![](/images/Cristo.jpg)](cristo.htm)  
+[{{< img src="images/Cristo.jpg" alt="" >}}](cristo.htm)  
 CRISTO

@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Polittico.JPG"
 ---
 
-![](/images/Polittico.JPG)
+{{< img src="images/Polittico.JPG" alt="" >}}
   
   
   
@@ -58,43 +58,43 @@ Ecco alcune immagini dell'evento.
   
   
 
-![](/images/DSC02899.JPG)
+{{< img src="images/DSC02899.JPG" alt="" >}}
 
 ######
 
 L'artista davanti all'opera: "Se l'odio ci travolge"
 
-![](/images/DSC02902.JPG)
+{{< img src="images/DSC02902.JPG" alt="" >}}
 
 ######
 
 L'artista di fronte al polittico "Il Naufragio"
 
-![](/images/DSC02903.JPG)
+{{< img src="images/DSC02903.JPG" alt="" >}}
 
 ######
 
 L'artista di fronte al polittico "Il Naufragio"
 
-![](/images/DSC02904.JPG)
+{{< img src="images/DSC02904.JPG" alt="" >}}
 
 ######
 
 L'artista di fronte al polittico "Il Naufragio"
 
-![](/images/DSC02907.JPG)
+{{< img src="images/DSC02907.JPG" alt="" >}}
 
 ######
 
 L'artista davanti all'opera: "Delicata e fragile come la nostra speranza"
 
-![](/images/DSC02924.JPG)
+{{< img src="images/DSC02924.JPG" alt="" >}}
 
 ######
 
 L'artista con alcune colleghe dell'Associazione Donne Medico
 
-![](/images/DSC02933.JPG)
+{{< img src="images/DSC02933.JPG" alt="" >}}
 
 ######
 

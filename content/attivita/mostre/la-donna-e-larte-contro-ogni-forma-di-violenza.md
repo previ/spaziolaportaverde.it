@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Locandina.JPG"
 ---
 
-![](/images/Locandina.JPG)
+{{< img src="images/Locandina.JPG" alt="" >}}
 
 LA DONNA E L'ARTE CONTRO OGNI FORMA DI VIOLENZA
   
@@ -48,13 +48,13 @@ uno spazio piÃ¹ ampio nel nostro mondo.
 Gabriella Ventavoli
   
   
-![](/images/DAV10094.JPG)
+{{< img src="images/DAV10094.JPG" alt="" >}}
   
 L'artista di fronte all'opera "Sorellanza"
   
   
   
-![](/images/DAV10214.JPG)
+{{< img src="images/DAV10214.JPG" alt="" >}}
   
 Il curatore Dr. Nugnes con l'artista e altri personaggi.
   
@@ -64,106 +64,106 @@ Il curatore Dr. Nugnes con l'artista e altri personaggi.
 OPERE ESPOSTE
   
   
-![](/images/350_Sorellanza_per_volantino.JPG)
+{{< img src="images/350_Sorellanza_per_volantino.JPG" alt="" >}}
   
 SORELLANZA
   
   
   
-![](/images/0085_Quando_l_amore_ferisce.JPG)
+{{< img src="images/0085_Quando_l_amore_ferisce.JPG" alt="" >}}
   
 QUANDO L'AMORE FERISCE
   
   
   
-![](/images/0089_La_danza_di_un_fiore.JPG)
+{{< img src="images/0089_La_danza_di_un_fiore.JPG" alt="" >}}
   
 LA DANZA DI UN FIORE
   
   
   
-![](/images/0186_Malala.JPG)
+{{< img src="images/0186_Malala.JPG" alt="" >}}
   
 MALALA
   
   
   
-![](/images/0198_Calliope.JPG)
+{{< img src="images/0198_Calliope.JPG" alt="" >}}
   
 CALLIOPE
   
   
   
-![](/images/239_Donna_araba.JPG)
+{{< img src="images/239_Donna_araba.JPG" alt="" >}}
   
 DONNA ARABA
   
   
   
-![](/images/247_Giovane_donna.JPG)
+{{< img src="images/247_Giovane_donna.JPG" alt="" >}}
   
 GIOVANE DONNA
   
   
   
-![](/images/250_La_suonatrice_di_violino.JPG)
+{{< img src="images/250_La_suonatrice_di_violino.JPG" alt="" >}}
   
 LA SUONATRICE DI VIOLINO
   
   
   
-![](/images/337_Farfalla_ferita.JPG)
+{{< img src="images/337_Farfalla_ferita.JPG" alt="" >}}
   
 FARFALLA FERITA
   
   
   
-![](/images/338_Come_raggio_di_sole.JPG)
+{{< img src="images/338_Come_raggio_di_sole.JPG" alt="" >}}
   
 COME RAGGIO DI SOLE
   
   
   
-![](/images/339_Palmiria.JPG)
+{{< img src="images/339_Palmiria.JPG" alt="" >}}
   
 PALMIRIA
   
   
   
-![](/images/340_Fiore_del_coraggio.JPG)
+{{< img src="images/340_Fiore_del_coraggio.JPG" alt="" >}}
   
 FIORE DEL CORAGGIO
   
   
   
-![](/images/341_La_bellezza_del_pensiero.JPG)
+{{< img src="images/341_La_bellezza_del_pensiero.JPG" alt="" >}}
   
 LA BELLEZZA DEL PENSIERO
   
   
   
   
-![](/images/342_Fiore_della_liberta.JPG)
+{{< img src="images/342_Fiore_della_liberta.JPG" alt="" >}}
   
 FIORE DELLA LIBERTA'
   
   
   
   
-![](/images/343_Fiore_del_conforto.JPG)
+{{< img src="images/343_Fiore_del_conforto.JPG" alt="" >}}
   
 FIORE DEL CONFORTO
   
   
   
   
-![](/images/344_Il_potere_dello_sguardo.JPG)
+{{< img src="images/344_Il_potere_dello_sguardo.JPG" alt="" >}}
   
 IL POTERE DELLO SGUARDO
   
   
   
   
-![](/images/345_Fiore_della_gioia.JPG)
+{{< img src="images/345_Fiore_della_gioia.JPG" alt="" >}}
   
 FIORE DELLA GIOIA

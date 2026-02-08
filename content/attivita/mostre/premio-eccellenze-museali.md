@@ -7,18 +7,18 @@ featured_image: "/images/Locandina.jpg"
 
 PREMIO BIENNALE SGARBI 2019
 
-![](/images/Locandina.jpg)
+{{< img src="images/Locandina.jpg" alt="" >}}
   
 LOCANDINA
 
-![](/images/Presentazione.jpg)
+{{< img src="images/Presentazione.jpg" alt="" >}}
   
 PRESENTAZIONE DI VITTORIO SGARBI
 
-![](/images/Attestato.jpg)
+{{< img src="images/Attestato.jpg" alt="" >}}
   
 ATTESTATO DI PARTECIPAZIONE
 
-![](/images/Il_mistero_del_mare.jpg)
+{{< img src="images/Il_mistero_del_mare.jpg" alt="" >}}
   
 L'OPERA ESPOSTA : IL MISTERO DEL MARE

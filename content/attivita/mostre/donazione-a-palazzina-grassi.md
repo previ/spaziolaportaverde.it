@@ -9,25 +9,25 @@ DA 'IL GIORNALE.IT'
   
   
   
-![](/images/Intestazione.png)
+{{< img src="images/Intestazione.png" alt="" >}}
 
 L'artista Gabriella Ventavoli dona l'Opera-Dittico "La Bellezza dal Mare e La Vita dal Mare" alla Palazzina Grassi di Venezia.
 
-![](/images/La_bellezza_dal_mare.jpg)
+{{< img src="images/La_bellezza_dal_mare.jpg" alt="" >}}
   
 LA BELLEZZA DAL MARE
 
-![](/images/La_vita_dal_mare.jpg)
+{{< img src="images/La_vita_dal_mare.jpg" alt="" >}}
   
 LA VITA DAL MARE
 
-![](/images/n.jpg)
+{{< img src="images/n.jpg" alt="" >}}
   
 KRUG LOUNGE 1
-![](/images/t.jpg)
+{{< img src="images/t.jpg" alt="" >}}
   
 ALTRO INTERNO
-![](/images/v.jpg)
+{{< img src="images/v.jpg" alt="" >}}
   
 IL DIRETTORE ANTONIO ONORATO E COLLABORATORE
   

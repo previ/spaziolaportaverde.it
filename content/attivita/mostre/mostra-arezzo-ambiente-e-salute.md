@@ -7,7 +7,7 @@ featured_image: "/images/Palazzetto_della_Fraternita.jpg"
 
 AMBIENTE E SALUTE
 
-![](/images/Palazzetto_della_Fraternita.jpg)
+{{< img src="images/Palazzetto_della_Fraternita.jpg" alt="" >}}
   
 Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente,
 nelle quali ad Arezzo e' stato promosso dalla sezione italiana dell'ISDE (International Society of Doctors for the Environment)

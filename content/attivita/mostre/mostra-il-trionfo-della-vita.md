@@ -9,7 +9,7 @@ GABRIELLA VENTAVOLI
 
 MOSTRA IL TRIONFO DELLA VITA
 
-![](/images/Il_trionfo_della_vita.JPG)
+{{< img src="images/Il_trionfo_della_vita.JPG" alt="" >}}
   
   
 Il trionfo della vita, acrilico su tela cm 140x500
@@ -32,57 +32,57 @@ che dispiega la sua energia nelle ampie volute, nelle linee che si intrecciano i
 Alcuni momenti della mostra:
   
   
-![](/images/DSC_3625.JPG)  
+{{< img src="images/DSC_3625.JPG" alt="" >}}  
   
 L'artista con il curatore dell'evento Salvo Nugnes e il Dr. Davide Mondo
   
   
-![](/images/DSC_3632.JPG)  
+{{< img src="images/DSC_3632.JPG" alt="" >}}  
   
   
   
-![](/images/DSC_3643.JPG)  
+{{< img src="images/DSC_3643.JPG" alt="" >}}  
   
   
   
-![](/images/DSC_3656.JPG)  
+{{< img src="images/DSC_3656.JPG" alt="" >}}  
   
 L'artista commenta le opere
   
   
-![](/images/DSC_3682.JPG)  
+{{< img src="images/DSC_3682.JPG" alt="" >}}  
   
 L'artista di fronte all'opera "Sognando Amazzonia" sperando che Amazzonia, il polmone verde della terra rimanga tale: un paradiso di biodiversitÃ 
   
   
-![](/images/DSC_3687.JPG)  
+{{< img src="images/DSC_3687.JPG" alt="" >}}  
   
 L'artista di fronte all'opera principale "Il trionfo della vita"
   
   
-![](/images/DSC_3813.JPG)  
+{{< img src="images/DSC_3813.JPG" alt="" >}}  
   
   
   
-![](/images/DSC_3910.JPG)  
+{{< img src="images/DSC_3910.JPG" alt="" >}}  
   
 Le opere "Fuoco e ghiaccio" e "La Pandemia"
   
   
-![](/images/IMG_0871.JPG)  
+{{< img src="images/IMG_0871.JPG" alt="" >}}  
   
 Di fronte all'opera "Sognando Amazzonia"
   
   
-![](/images/IMG_0876.JPG)  
+{{< img src="images/IMG_0876.JPG" alt="" >}}  
   
   
   
-![](/images/IMG_0880.JPG)  
+{{< img src="images/IMG_0880.JPG" alt="" >}}  
   
   
   
-![](/images/IMG_0901.JPG)  
+{{< img src="images/IMG_0901.JPG" alt="" >}}  
   
 
 [Comunicato stampa](https://www.joyfreepress.com/2021/11/17/343992-gabriella-ventavoli-e-il-trionfo-della-vita-successo-a-la-porta-verde-di-milano-con-nugness/)

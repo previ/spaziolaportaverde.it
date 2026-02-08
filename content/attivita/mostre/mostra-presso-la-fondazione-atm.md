@@ -9,7 +9,7 @@ GABRIELLA VENTAVOLI
 
 MOSTRA PRESSO LA FONDAZIONE ATM
 
-![](/images/Invito.jpg)
+{{< img src="images/Invito.jpg" alt="" >}}
   
   
   
@@ -62,24 +62,24 @@ Tele 50x70
 
   
   
-![](/images/Danze_nel_mare_1.jpg)  
+{{< img src="images/Danze_nel_mare_1.jpg" alt="" >}}  
   
 DANZE NEL MARE 1
 
-![](/images/Danze_nel_mare_2.jpg)  
+{{< img src="images/Danze_nel_mare_2.jpg" alt="" >}}  
   
 DANZE NEL MARE 2
 
-![](/images/L_anima_del_mare.jpg)  
+{{< img src="images/L_anima_del_mare.jpg" alt="" >}}  
   
 L'ANIMA DEL MARE
-![](/images/L_occhio_del_mare.jpg)  
+{{< img src="images/L_occhio_del_mare.jpg" alt="" >}}  
   
 L'OCCHIO DEL MARE
-![](/images/La_grotta_nel_mare.jpg)  
+{{< img src="images/La_grotta_nel_mare.jpg" alt="" >}}  
   
 LA GROTTA NEL MARE
-![](/images/Piet___nel_mare.jpg)  
+{{< img src="images/Piet___nel_mare.jpg" alt="" >}}  
   
 PIETA' NEL MARE
   
@@ -91,13 +91,13 @@ Tele 100x150
   
   
   
-![](/images/Poseidon_e_Armonia.jpg)  
+{{< img src="images/Poseidon_e_Armonia.jpg" alt="" >}}  
   
 POSEIDON E ARMONIA
-![](/images/La_sirena.jpg)  
+{{< img src="images/La_sirena.jpg" alt="" >}}  
   
 LA SIRENA
-![](/images/Le_pescatrici_di_perle.jpg)  
+{{< img src="images/Le_pescatrici_di_perle.jpg" alt="" >}}  
   
 LE PESCATRICI DI PERLE
   
@@ -109,7 +109,7 @@ Tele 140x180
   
   
   
-![](/images/Il_dinamismo_del_mare.jpg)  
+{{< img src="images/Il_dinamismo_del_mare.jpg" alt="" >}}  
   
 IL DINAMISMO DEL MARE
   
@@ -117,7 +117,7 @@ IL DINAMISMO DEL MARE
   
   
 Alcune immagini dell'inaugurazione
-![](/images/Inaugurazione_1.jpg)  
+{{< img src="images/Inaugurazione_1.jpg" alt="" >}}  
   
 
-![](/images/Inaugurazione_2.jpg)
+{{< img src="images/Inaugurazione_2.jpg" alt="" >}}

@@ -7,43 +7,43 @@ featured_image: "/images/Angelo_caduto.jpg"
 
 IMMAGINI DELLA VIOLENZA
 
-[![](/images/Angelo_caduto.jpg)](angelo caduto.htm)
+[{{< img src="images/Angelo_caduto.jpg" alt="" >}}](angelo caduto.htm)
 ANGELO CADUTO
 
-[![](/images/Ground_zero.jpg)](ground zero.htm)
+[{{< img src="images/Ground_zero.jpg" alt="" >}}](ground zero.htm)
 GROUND ZERO
 
-[![](/images/Kamikaze.jpg)](kamikaze.htm)
+[{{< img src="images/Kamikaze.jpg" alt="" >}}](kamikaze.htm)
 KAMIKAZE
 
-[![](/images/La_minaccia_1.jpg)](la minaccia 1.htm)
+[{{< img src="images/La_minaccia_1.jpg" alt="" >}}](la minaccia 1.htm)
 LA MINACCIA 1
 
-[![](/images/La_minaccia_2.jpg)](la minaccia 2.htm)
+[{{< img src="images/La_minaccia_2.jpg" alt="" >}}](la minaccia 2.htm)
 LA MINACCIA 2
 
-[![](/images/Lo_strazio_del_corpo.jpg)](lo strazio del corpo.htm)
+[{{< img src="images/Lo_strazio_del_corpo.jpg" alt="" >}}](lo strazio del corpo.htm)
 LO STRAZIO DEL CORPO
 
-[![](/images/L_orrore_della_guerra.jpg)](l'orrore della guerra.htm)
+[{{< img src="images/L_orrore_della_guerra.jpg" alt="" >}}](l'orrore della guerra.htm)
 L'ORRORE DELLA GUERRA
 
-[![](/images/Morte_al_mercato_di_Serajevo.jpg)](morte al mercato di Serajevo.htm)
+[{{< img src="images/Morte_al_mercato_di_Serajevo.jpg" alt="" >}}](morte al mercato di Serajevo.htm)
 MORTE AL MERCATO DI SERAJEVO
 
-[![](/images/Morte_sulle_sabbie.jpg)](morte sulle sabbie.htm)
+[{{< img src="images/Morte_sulle_sabbie.jpg" alt="" >}}](morte sulle sabbie.htm)
 MORTE SULLE SABBIE
 
-[![](/images/Petrolio.jpg)](petrolio.htm)
+[{{< img src="images/Petrolio.jpg" alt="" >}}](petrolio.htm)
 PETROLIO
 
-[![](/images/Pieta__per_i_bambini.jpg)](pieta' per i bambini.htm)  
+[{{< img src="images/Pieta__per_i_bambini.jpg" alt="" >}}](pieta' per i bambini.htm)  
 PIETA' PER I BAMBINI
 
-[![](/images/Pieta__per_il_soldato.jpg)](pieta' per il soldato.htm)  
+[{{< img src="images/Pieta__per_il_soldato.jpg" alt="" >}}](pieta' per il soldato.htm)  
 PIETA' PER IL SOLDATO
 
-[![](/images/Soldato_morente.jpg)](soldato morente.htm)  
+[{{< img src="images/Soldato_morente.jpg" alt="" >}}](soldato morente.htm)  
 SOLDATO MORENTE
 
 [prec](/gabriella-ventavoli-4/)

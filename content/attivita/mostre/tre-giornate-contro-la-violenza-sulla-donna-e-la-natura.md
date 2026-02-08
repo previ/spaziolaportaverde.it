@@ -7,7 +7,7 @@ featured_image: "/images/Farfalla_ferita_per_locandina.jpg"
 
 LE RADICI DELLA VIOLENZA, LO SGUARDO DELLA PSICOANALISI
 
-![](/images/Farfalla_ferita_per_locandina.jpg)
+{{< img src="images/Farfalla_ferita_per_locandina.jpg" alt="" >}}
   
 Il 23 novembre 2013, in occasione delle manifestazioni a favore dell'eliminazione della violenza sulla donna, culminanti il 25 novembre,
 giornata dedicata dall'ONU a questo tema, Gabriella Ventavoli e Gianmaria Occhi, hanno commentato alcune opere d'arte contemporanee e del passato,

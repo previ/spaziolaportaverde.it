@@ -8,7 +8,7 @@ featured_image: "/images/circolo-stampa.jpg"
 PALAZZO BOCCONI - MILANO   
  SALA DEGLI SPECCHI
 
-![](/images/circolo-stampa.jpg)
+{{< img src="images/circolo-stampa.jpg" alt="" >}}
 
 PREMIO DELLA SCULTURA 2016
   
@@ -22,8 +22,8 @@ nel Palazzo della Regione Lombardia; risultato prezioso sia per i materiali, ovv
 individuazione del pensiero contemporaneo e della filosofia che lo avvolge.*
   
   
-![](/images/IMG_0370_sito.jpg)
+{{< img src="images/IMG_0370_sito.jpg" alt="" >}}
   
   
   
-![](/images/IMG_0375_sito.jpg)
+{{< img src="images/IMG_0375_sito.jpg" alt="" >}}

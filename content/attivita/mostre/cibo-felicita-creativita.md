@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/Banner.jpg"
 ---
 
-![](/images/Banner.jpg)
+{{< img src="images/Banner.jpg" alt="" >}}
   
   
   
@@ -63,7 +63,7 @@ da sempre hanno portato filosofi, poeti e pittori a scrivere, riflettere e dipin
   
 Ecco alcune immagini dell'evento.
 
-![](/images/Immagine_1.JPG)
+{{< img src="images/Immagine_1.JPG" alt="" >}}
 
 ######
 
@@ -79,7 +79,7 @@ La pittrice tra "Il viola nella luce" e "La nascita della luce"
   
   
 
-![](/images/Immagine_2.JPG)
+{{< img src="images/Immagine_2.JPG" alt="" >}}
 
 ######
 
@@ -95,7 +95,7 @@ La pittrice di fronte a "La vita dal mare", "L'abero della vita", "Madre Natura"
   
   
 
-![](/images/Immagine_3.JPG)
+{{< img src="images/Immagine_3.JPG" alt="" >}}
 
 ######
 
@@ -111,7 +111,7 @@ La pittrice tra "La primavera" e "La luce"
   
   
 
-![](/images/Immagine_4.JPG)
+{{< img src="images/Immagine_4.JPG" alt="" >}}
 
 ######
 
@@ -126,7 +126,7 @@ e sulla destra, davanti al computer e al video la relatrice, D.ssa Anna Maria Ma
   
   
 
-![](/images/Immagine_5.JPG)
+{{< img src="images/Immagine_5.JPG" alt="" >}}
 
 ######
 
@@ -142,7 +142,7 @@ Alcuni partecipanti all'evento
   
   
 
-![](/images/Immagine_6.JPG)
+{{< img src="images/Immagine_6.JPG" alt="" >}}
 
 ######
 

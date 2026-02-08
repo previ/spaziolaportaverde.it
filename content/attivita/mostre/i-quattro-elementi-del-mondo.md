@@ -7,7 +7,7 @@ featured_image: "/images/Le_diverse_forme_dell_acqua.jpg"
 
 I QUATTRO ELEMENTI DEL MONDO
 
-![](/images/Le_diverse_forme_dell_acqua.jpg)
+{{< img src="images/Le_diverse_forme_dell_acqua.jpg" alt="" >}}
   
 Il 24 Gennaio 2015 Ã© stata inaugurata una collettiva ispirata al tema dei componenti fondamentali del mondo, nei tempi
 antichi identificati con il Fuoco, l'Aria,l'Acqua e la Terra. La pittrice Gabriella Ventavoli ha presentato la sua interpretazione dell'elemento Acqua.
@@ -15,19 +15,19 @@ antichi identificati con il Fuoco, l'Aria,l'Acqua e la Terra. La pittrice Gabrie
   
 Ecco alcune immagini dell'evento.
 
-![](/images/La_pittrice_con_alcune_opere.jpg)
+{{< img src="images/La_pittrice_con_alcune_opere.jpg" alt="" >}}
 
 ######
 
 La pittrice con alcune opere
 
-![](/images/Presentazione_del_Prof._Franza.jpg)
+{{< img src="images/Presentazione_del_Prof._Franza.jpg" alt="" >}}
 
 ######
 
 Presentazione del Prof. Franza
 
-![](/images/Gli_Artisti_e_il_Prof._Franza.jpg)
+{{< img src="images/Gli_Artisti_e_il_Prof._Franza.jpg" alt="" >}}
 
 ######
 

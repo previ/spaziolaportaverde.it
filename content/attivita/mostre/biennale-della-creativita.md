@@ -13,4 +13,4 @@ La 1.a Biennale della Creativita', svolta a Verona dal 12 al 16 Febbraio 2014 ha
 L'artista ha partecipato con due opere, "Verso la salvezza", e "L'abbraccio" ricevendo un lusinghiero attestato di ammissione.
   
   
-![](/images/DSC_0044.jpg)
+{{< img src="images/DSC_0044.jpg" alt="" >}}

@@ -5,11 +5,11 @@ draft: false
 featured_image: "/images/Telero_1_ritagliatorid.JPG"
 ---
 
-![](/images/Telero_1_ritagliatorid.JPG)
+{{< img src="images/Telero_1_ritagliatorid.JPG" alt="" >}}
 
 PER AMORE DI NOSTRA MADRE TERRA 1
 
-![](/images/Telero_2_ritagliatorid.JPG)
+{{< img src="images/Telero_2_ritagliatorid.JPG" alt="" >}}
 
 PER AMORE DI NOSTRA MADRE TERRA 2
 
@@ -38,31 +38,31 @@ Ecco alcune immagini dell'evento.
   
   
 
-![](/images/DAV10052rid.JPG)
+{{< img src="images/DAV10052rid.JPG" alt="" >}}
 
 ######
 
 Il manifesto della mostra tra Salvo Nugnes e Roberto Villa
 
-![](/images/DAV10135rid.JPG)
+{{< img src="images/DAV10135rid.JPG" alt="" >}}
 
 ######
 
 L'artista di fronte all'opera "Per Amore Di Nostra Madre Terra"
 
-![](/images/DAV10194rid.JPG)
+{{< img src="images/DAV10194rid.JPG" alt="" >}}
 
 ######
 
 Presentazione di Salvo Nugnes, curatore della mostra
 
-![](/images/DAV10223rid.JPG)
+{{< img src="images/DAV10223rid.JPG" alt="" >}}
 
 ######
 
 Un altro momento della presentazione
 
-![](/images/DAV10233rid.JPG)
+{{< img src="images/DAV10233rid.JPG" alt="" >}}
 
 ######
 

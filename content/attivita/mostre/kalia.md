@@ -11,25 +11,25 @@ Parole e pensieri, dipinti nel libro .["Kalia uno sguardo dallo spazio"](coperti
   
 Vengono rappresentati con parole e immagini, l'orrore per la guerra, che distrugge la bellezza e l'armonia della terra e delle sue creature.
 
-![](/images/Spaziatore.jpg)
+{{< img src="images/Spaziatore.jpg" alt="" >}}
 
-![](/images/Copertina_Kalia.jpg)
+{{< img src="images/Copertina_Kalia.jpg" alt="" >}}
 
 **KALIA**
 
-![](/images/Spaziatore.jpg)
+{{< img src="images/Spaziatore.jpg" alt="" >}}
 
-![](/images/Danza_delle_spiraline.jpg)
+{{< img src="images/Danza_delle_spiraline.jpg" alt="" >}}
 
 **DANZA DELLE SPIRALINE**
 
-![](/images/Spaziatore.jpg)
+{{< img src="images/Spaziatore.jpg" alt="" >}}
 
-![](/images/Barca_dei_sogni.jpg)
+{{< img src="images/Barca_dei_sogni.jpg" alt="" >}}
 
 **BARCA DEI SOGNI**
 
-![](/images/Spaziatore.jpg)
+{{< img src="images/Spaziatore.jpg" alt="" >}}
 
 La ricerca della speranza.
   

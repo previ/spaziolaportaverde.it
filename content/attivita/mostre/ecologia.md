@@ -7,67 +7,67 @@ featured_image: "/images/Inquinamento.jpg"
 
 AMBIENTE E VITA - OPERE SULL'ECOLOGIA
 
-[![](/images/Inquinamento.jpg)](/inquinamento/)
+[{{< img src="images/Inquinamento.jpg" alt="" >}}](/inquinamento/)
 INQUINAMENTO
 
-[![](/images/Se_l_aria_brucia.jpg)](/se-laria-brucia/)
+[{{< img src="images/Se_l_aria_brucia.jpg" alt="" >}}](/se-laria-brucia/)
 SE L'ARIA BRUCIA
 
-[![](/images/Ghiacciaio_ferito.jpg)](ghiacciaio ferito.htm)
+[{{< img src="images/Ghiacciaio_ferito.jpg" alt="" >}}](ghiacciaio ferito.htm)
 GHIACCIAIO FERITO
 
-[![](/images/Africa.jpg)](africa.htm)
+[{{< img src="images/Africa.jpg" alt="" >}}](africa.htm)
 AFRICA
 
-[![](/images/Amazzonia.jpg)](amazzonia.htm)
+[{{< img src="images/Amazzonia.jpg" alt="" >}}](amazzonia.htm)
 AMAZZONIA
 
-[![](/images/Bosco.jpg)](bosco.htm)
+[{{< img src="images/Bosco.jpg" alt="" >}}](bosco.htm)
 FORESTA
 
-[![](/images/Incendio_nella_foresta.jpg)](incendio nella foresta.htm)
+[{{< img src="images/Incendio_nella_foresta.jpg" alt="" >}}](incendio nella foresta.htm)
 INCENDIO NELLA FORESTA
 
-[![](/images/Verso_il_sole.jpg)](verso il sole.htm)
+[{{< img src="images/Verso_il_sole.jpg" alt="" >}}](verso il sole.htm)
 VERSO IL SOLE
 
-[![](/images/Danza_dell_aria.jpg)](danza dell'aria.htm)
+[{{< img src="images/Danza_dell_aria.jpg" alt="" >}}](danza dell'aria.htm)
 DANZA DELL'ARIA
 
-[![](/images/L_abbraccio_delle_piante.jpg)](l'abbraccio delle piante.htm)
+[{{< img src="images/L_abbraccio_delle_piante.jpg" alt="" >}}](l'abbraccio delle piante.htm)
 L'ABBRACCIO DELLE PIANTE
 
-[![](/images/Oro_blu.jpg)](oro blu.htm)
+[{{< img src="images/Oro_blu.jpg" alt="" >}}](oro blu.htm)
 ORO BLU
 
-[![](/images/La_nostra_madre_terra.jpg)](la nostra madre terra.htm)  
+[{{< img src="images/La_nostra_madre_terra.jpg" alt="" >}}](la nostra madre terra.htm)  
 LA NOSTRA MADRE TERRA
 
-[![](/images/Crocifissione_della_natura.jpg)](crocifissione della natura.htm)
+[{{< img src="images/Crocifissione_della_natura.jpg" alt="" >}}](crocifissione della natura.htm)
 CROCIFISSIONE DELLA NATURA
 
-[![](/images/Fuoco_nel_bosco.jpg)](fuoco nel bosco.htm)
+[{{< img src="images/Fuoco_nel_bosco.jpg" alt="" >}}](fuoco nel bosco.htm)
 FUOCO NEL BOSCO
 
-[![](/images/Il_canto_della_foglia.jpg)](il canto della foglia.htm)  
+[{{< img src="images/Il_canto_della_foglia.jpg" alt="" >}}](il canto della foglia.htm)  
 IL CANTO DELLA FOGLIA
 
-[![](/images/Il_sonno_del_mare.jpg)](il sonno del mare.htm)  
+[{{< img src="images/Il_sonno_del_mare.jpg" alt="" >}}](il sonno del mare.htm)  
 IL SONNO DEL MARE
 
-[![](/images/In_fuga_dal_fuoco.jpg)](in fuga dal fuoco.htm)  
+[{{< img src="images/In_fuga_dal_fuoco.jpg" alt="" >}}](in fuga dal fuoco.htm)  
 IN FUGA DAL FUOCO
 
-[![](/images/La_forza_del_sole.jpg)](la forza del sole.htm)  
+[{{< img src="images/La_forza_del_sole.jpg" alt="" >}}](la forza del sole.htm)  
 LA FORZA DEL SOLE
 
-[![](/images/L_anima_del_mare_1.jpg)](l'anima del mare 1.htm)  
+[{{< img src="images/L_anima_del_mare_1.jpg" alt="" >}}](l'anima del mare 1.htm)  
 L'ANIMA DEL MARE 1
 
-[![](/images/L_anima_del_mare_2.jpg)](l'anima del mare 2.htm)  
+[{{< img src="images/L_anima_del_mare_2.jpg" alt="" >}}](l'anima del mare 2.htm)  
 L'ANIMA DEL MARE 2
 
-[![](/images/Siccita_.jpg)](siccita'.htm)  
+[{{< img src="images/Siccita_.jpg" alt="" >}}](siccita'.htm)  
 SICCITA'
 
 [prec](/home-72/)

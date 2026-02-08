@@ -16,11 +16,11 @@ delle opere esposte nelle varie ali del palazzo. La pittrice Gabriella Ventavoli
 come nelle tre edizioni precedenti dell'evento, con tre opere di
 grande formato, accolte molto favorevolmente dalla critica.  
 
-![](/images/Attestato_Spoleto_Arte_Gabriella_Ventavolirid.jpg)
+{{< img src="images/Attestato_Spoleto_Arte_Gabriella_Ventavolirid.jpg" alt="" >}}
 
 Attestato di partecipazione
 
-![](/images/Dichiarazione_critica_Spoleto_Arte_Gabriella_Ventavoli.jpg)
+{{< img src="images/Dichiarazione_critica_Spoleto_Arte_Gabriella_Ventavoli.jpg" alt="" >}}
 
 Dichiarazione critica
 
@@ -29,14 +29,14 @@ alla mostra "SPOLETO ARTE 2018", dal titolo
 
 Di seguito le immagini delle opere esposte.
 
-![](/images/La_dea_dell_acquarid.jpg)
+{{< img src="images/La_dea_dell_acquarid.jpg" alt="" >}}
 
 La dea dell'acqua
 
-![](/images/L_idolo_eternorid.jpg)
+{{< img src="images/L_idolo_eternorid.jpg" alt="" >}}
 
 L'idolo eterno
 
-![](/images/Madre_Naturarid.jpg)
+{{< img src="images/Madre_Naturarid.jpg" alt="" >}}
 
 Madre Natura

@@ -8,7 +8,7 @@ featured_image: "/images/circolo-stampa.jpg"
 PALAZZO BOCCONI - MILANO   
  SALA DEGLI SPECCHI
 
-![](/images/circolo-stampa.jpg)
+{{< img src="images/circolo-stampa.jpg" alt="" >}}
 
 PREMIO DELLA CULTURA 2014
   
@@ -19,8 +19,8 @@ In occasione della XXVIa edizione del "Premio della Cultura/Premio delle Arti", 
 riguardanti la terra, l'aria e in particolare l'acqua come elemento fondamentale per la vita di tutti gli esseri viventi.
   
   
-![](/images/DSC02507.jpg)
+{{< img src="images/DSC02507.jpg" alt="" >}}
   
   
   
-![](/images/DSC02508.jpg)
+{{< img src="images/DSC02508.jpg" alt="" >}}

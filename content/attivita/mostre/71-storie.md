@@ -7,7 +7,7 @@ featured_image: "/images/71_Storie.jpg"
 
 71 STORIE DI COCAINA ED ALTRO
 
-![](/images/71_Storie.jpg)
+{{< img src="images/71_Storie.jpg" alt="" >}}
 
 *71 storie di persone accomunate dal "piacere oscuro" delle dipendenze. Casi clinici trasformati in racconti di vita vissuta anche tragicamente, senza mai chiudere alla speranza*
 

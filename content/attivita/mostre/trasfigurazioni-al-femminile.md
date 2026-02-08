@@ -7,108 +7,108 @@ featured_image: "/images/Il_volo.jpg"
 
 TRASFIGURAZIONI AL FEMMINILE
 
-[![](/images/Il_volo.jpg)](il volo.htm)  
+[{{< img src="images/Il_volo.jpg" alt="" >}}](il volo.htm)  
 IL VOLO
 
-[![](/images/Il_dialogo.jpg)](il dialogo.htm)  
+[{{< img src="images/Il_dialogo.jpg" alt="" >}}](il dialogo.htm)  
 IL DIALOGO
 
-[![](/images/Il_sogno.jpg)](il sogno.htm)
+[{{< img src="images/Il_sogno.jpg" alt="" >}}](il sogno.htm)
   
 IL SOGNO
 
-[![](/images/Armonia.jpg)](armonia.htm)
+[{{< img src="images/Armonia.jpg" alt="" >}}](armonia.htm)
 ARMONIA
 
-[![](/images/Fanciulle_al_mare.jpg)](fanciulle al mare.htm)
+[{{< img src="images/Fanciulle_al_mare.jpg" alt="" >}}](fanciulle al mare.htm)
 FANCIULLE AL MARE
 
-[![](/images/Raggi_di_sole.jpg)](raggi di sole.htm)
+[{{< img src="images/Raggi_di_sole.jpg" alt="" >}}](raggi di sole.htm)
 RAGGI DI SOLE
 
-[![](/images/Maternita__araba.jpg)](maternita' araba.htm)
+[{{< img src="images/Maternita__araba.jpg" alt="" >}}](maternita' araba.htm)
 MATERNITA' ARABA
 
-[![](/images/Donne_nell_ombra.jpg)](donne nell'ombra.htm)
+[{{< img src="images/Donne_nell_ombra.jpg" alt="" >}}](donne nell'ombra.htm)
 DONNE NELL'OMBRA
 
-[![](/images/Orizzonti_di_fuoco.jpg)](orizzonti di fuoco.htm)  
+[{{< img src="images/Orizzonti_di_fuoco.jpg" alt="" >}}](orizzonti di fuoco.htm)  
 ORIZZONTI DI FUOCO
 
-[![](/images/Figure_danzanti.jpg)](figure danzanti.htm)
+[{{< img src="images/Figure_danzanti.jpg" alt="" >}}](figure danzanti.htm)
 FIGURE DANZANTI
 
-[![](/images/Maternita__2.jpg)](maternita' 2.htm)  
+[{{< img src="images/Maternita__2.jpg" alt="" >}}](maternita' 2.htm)  
 MATERNITA' 2
 
-[![](/images/Figura_evanescente.jpg)](figura evanescente.htm)  
+[{{< img src="images/Figura_evanescente.jpg" alt="" >}}](figura evanescente.htm)  
 FIGURA EVANESCENTE
 
-[![](/images/Arabe.jpg)](arabe.htm)  
+[{{< img src="images/Arabe.jpg" alt="" >}}](arabe.htm)  
 ARABE
 
-[![](/images/Burka.jpg)](burka.htm)  
+[{{< img src="images/Burka.jpg" alt="" >}}](burka.htm)  
 BURKA
 
-[![](/images/Creativita__2.jpg)](creativita' 2.htm)  
+[{{< img src="images/Creativita__2.jpg" alt="" >}}](creativita' 2.htm)  
 CREATIVITA' 2
 
-[![](/images/Donna_sul_divano_rosso.jpg)](donna sul divano rosso.htm)  
+[{{< img src="images/Donna_sul_divano_rosso.jpg" alt="" >}}](donna sul divano rosso.htm)  
 DONNA SUL DIVANO ROSSO
 
-[![](/images/Il_grido.jpg)](il grido.htm)  
+[{{< img src="images/Il_grido.jpg" alt="" >}}](il grido.htm)  
 IL GRIDO
 
-[![](/images/Il_pianto_di_Olimpia.jpg)](il pianto di Olimpia.htm)  
+[{{< img src="images/Il_pianto_di_Olimpia.jpg" alt="" >}}](il pianto di Olimpia.htm)  
 IL PIANTO DI OLIMPIA
 
-[![](/images/Il_velo_della_sposa.jpg)](il velo della sposa.htm)  
+[{{< img src="images/Il_velo_della_sposa.jpg" alt="" >}}](il velo della sposa.htm)  
 IL VELO DELLA SPOSA
 
-[![](/images/La_partenza_del_soldato.jpg)](la partenza del soldato.htm)  
+[{{< img src="images/La_partenza_del_soldato.jpg" alt="" >}}](la partenza del soldato.htm)  
 LA PARTENZA DEL SOLDATO
 
-[![](/images/La_speranza.jpg)](la speranza.htm)  
+[{{< img src="images/La_speranza.jpg" alt="" >}}](la speranza.htm)  
 LA SPERANZA
 
-[![](/images/La_sposa_afghana.jpg)](la sposa afghana.htm)  
+[{{< img src="images/La_sposa_afghana.jpg" alt="" >}}](la sposa afghana.htm)  
 LA SPOSA AFGHANA
 
-[![](/images/La_sposa_del_guerriero.jpg)](la sposa del guerriero.htm)  
+[{{< img src="images/La_sposa_del_guerriero.jpg" alt="" >}}](la sposa del guerriero.htm)  
 LA SPOSA DEL GUERRIERO
 
-[![](/images/L_annunciazione.jpg)](l'annunciazione.htm)  
+[{{< img src="images/L_annunciazione.jpg" alt="" >}}](l'annunciazione.htm)  
   
 L'ANNUNCIAZIONE
 
-[![](/images/Le_amiche.jpg)](le amiche.htm)  
+[{{< img src="images/Le_amiche.jpg" alt="" >}}](le amiche.htm)  
 LE AMICHE
 
-[![](/images/Malala.jpg)](malala.htm)  
+[{{< img src="images/Malala.jpg" alt="" >}}](malala.htm)  
 MALALA
 
-[![](/images/Maternita__1.jpg)](maternita' 1.htm)  
+[{{< img src="images/Maternita__1.jpg" alt="" >}}](maternita' 1.htm)  
 MATERNITA' 1
 
-[![](/images/Pieta__2.jpg)](pieta' 2.htm)  
+[{{< img src="images/Pieta__2.jpg" alt="" >}}](pieta' 2.htm)  
 PIETA' 2
 
-[![](/images/Pieta__4.jpg)](pieta' 4.htm)  
+[{{< img src="images/Pieta__4.jpg" alt="" >}}](pieta' 4.htm)  
 PIETA' 4
 
-[![](/images/Quando_l_amore_ferisce.jpg)](quando l'amore ferisce.htm)  
+[{{< img src="images/Quando_l_amore_ferisce.jpg" alt="" >}}](quando l'amore ferisce.htm)  
 QUANDO L'AMORE FERISCE
 
-[![](/images/Torera_1.jpg)](torera 1.htm)  
+[{{< img src="images/Torera_1.jpg" alt="" >}}](torera 1.htm)  
 TORERA 1
 
-[![](/images/Torera_2.jpg)](torera 2.htm)  
+[{{< img src="images/Torera_2.jpg" alt="" >}}](torera 2.htm)  
 TORERA 2
 
-[![](/images/Torera_3.jpg)](torera 3.htm)  
+[{{< img src="images/Torera_3.jpg" alt="" >}}](torera 3.htm)  
 TORERA 3
 
 [prec](/gabriella-ventavoli-4/)
 
-[![](/images/Venere_3000.jpg)](venere 3000.htm)  
+[{{< img src="images/Venere_3000.jpg" alt="" >}}](venere 3000.htm)  
 VENERE 3000
