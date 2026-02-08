@@ -2,7 +2,7 @@
 title: "Mostra per amore della terra"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Telero_1_ritagliatorid.JPG"
+featured_image: "images/Telero_1_ritagliatorid.JPG"
 ---
 
 {{< img src="images/Telero_1_ritagliatorid.JPG" alt="" >}}

@@ -2,7 +2,7 @@
 title: "Donazione a liceo artistico brera"
 date: 2021-01-01
 draft: false
-featured_image: "/images/Intestazione.png"
+featured_image: "images/Intestazione.png"
 ---
 
 DA 'IL GIORNALE.IT' del 6 APRILE 2021

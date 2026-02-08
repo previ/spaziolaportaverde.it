@@ -2,7 +2,7 @@
 title: "SORELLA ARIA E VOLO DI FARFALLE"
 date: 2013-01-01
 draft: false
-featured_image: "/images/Sorella_Aria.jpg"
+featured_image: "images/Sorella_Aria.jpg"
 ---
 
 SORELLA ARIA E VOLO DI FARFALLE

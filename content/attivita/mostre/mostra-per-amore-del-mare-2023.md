@@ -2,7 +2,7 @@
 title: "Mostra per amore del mare 2023"
 date: 2023-01-01
 draft: false
-featured_image: "/images/Le_pescatrici_di_perle.jpg"
+featured_image: "images/Le_pescatrici_di_perle.jpg"
 ---
 
 MOSTRA PER AMORE DEL MARE 2023

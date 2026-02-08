@@ -2,7 +2,7 @@
 title: "Per amore della terra"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Natura_e_Bellezza.jpg"
+featured_image: "images/Natura_e_Bellezza.jpg"
 ---
 
 PER AMORE DELLA TERRA

@@ -2,7 +2,7 @@
 title: "Mostra il naufragio"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Polittico.JPG"
+featured_image: "images/Polittico.JPG"
 ---
 
 {{< img src="images/Polittico.JPG" alt="" >}}

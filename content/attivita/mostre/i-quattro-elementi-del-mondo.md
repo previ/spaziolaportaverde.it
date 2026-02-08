@@ -2,7 +2,7 @@
 title: "I quattro elementi del mondo"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Le_diverse_forme_dell_acqua.jpg"
+featured_image: "images/Le_diverse_forme_dell_acqua.jpg"
 ---
 
 I QUATTRO ELEMENTI DEL MONDO

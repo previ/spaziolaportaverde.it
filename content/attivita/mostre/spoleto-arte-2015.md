@@ -2,7 +2,7 @@
 title: "Spoleto arte 2015"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Logo_grande.png"
+featured_image: "images/Logo_grande.png"
 ---
 
 {{< img src="images/Logo_grande.png" alt="" >}}

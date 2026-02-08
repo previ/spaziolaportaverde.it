@@ -2,7 +2,7 @@
 title: "Galleria violenza"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Pieta__per_i_bambini.jpg"
+featured_image: "images/Pieta__per_i_bambini.jpg"
 ---
 
 OPERE ISPIRATE ALLA VIOLENZA SULLE DONNE E L'INFANZIA

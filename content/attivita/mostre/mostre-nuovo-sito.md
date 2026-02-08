@@ -2,7 +2,7 @@
 title: "Errore 404   File non trovato"
 date: 2000-01-01
 draft: false
-featured_image: "/images/errore.gif"
+featured_image: "images/errore.gif"
 ---
 
 |  |  |

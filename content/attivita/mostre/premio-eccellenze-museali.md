@@ -2,7 +2,7 @@
 title: "Premio eccellenze museali"
 date: 2019-01-01
 draft: false
-featured_image: "/images/Locandina.jpg"
+featured_image: "images/Locandina.jpg"
 ---
 
 PREMIO BIENNALE SGARBI 2019

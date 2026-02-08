@@ -2,7 +2,7 @@
 title: "Dipingere con le parole"
 date: 2022-01-01
 draft: false
-featured_image: "/images/Dipingere_con_le_parole.jpg"
+featured_image: "images/Dipingere_con_le_parole.jpg"
 ---
 
 DIPINGERE CON LE PAROLE

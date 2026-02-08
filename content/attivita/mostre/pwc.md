@@ -2,7 +2,7 @@
 title: "Pwc"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Titolo.JPG"
+featured_image: "images/Titolo.JPG"
 ---
 
 {{< img src="images/Titolo.JPG" alt="" >}}

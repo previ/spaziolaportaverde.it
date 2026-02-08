@@ -2,7 +2,7 @@
 title: "Biografia"
 date: 1976-01-01
 draft: false
-featured_image: "/images/GV.jpg"
+featured_image: "images/GV.jpg"
 ---
 
 

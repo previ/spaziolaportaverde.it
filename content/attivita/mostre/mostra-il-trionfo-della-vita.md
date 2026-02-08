@@ -2,7 +2,7 @@
 title: "Mostra il trionfo della vita"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Il_trionfo_della_vita.JPG"
+featured_image: "images/Il_trionfo_della_vita.JPG"
 ---
 
 GABRIELLA VENTAVOLI

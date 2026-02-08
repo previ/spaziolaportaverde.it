@@ -2,7 +2,7 @@
 title: "Premio delle arti 2023"
 date: 2023-01-01
 draft: false
-featured_image: "/images/Targa.jpg"
+featured_image: "images/Targa.jpg"
 ---
 
 {{< img src="images/Targa.jpg" alt="" >}}

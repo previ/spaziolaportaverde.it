@@ -2,7 +2,7 @@
 title: "Mostra trieste 2014"
 date: 2014-01-01
 draft: false
-featured_image: "/images/Piazza_dell_Unita_.jpg"
+featured_image: "images/Piazza_dell_Unita_.jpg"
 ---
 
 LA BELLEZZA DEL VIVERE IN SALUTE E IN AMBIENTI SANI

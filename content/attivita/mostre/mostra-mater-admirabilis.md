@@ -2,7 +2,7 @@
 title: "Mostra mater admirabilis"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Piet___nel_mare.JPG"
+featured_image: "images/Piet___nel_mare.JPG"
 ---
 
 SCENARI AL PLUS FLORENCE

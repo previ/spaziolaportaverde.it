@@ -2,7 +2,7 @@
 title: "Linee dinamiche"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Dinamismo_1.jpg"
+featured_image: "images/Dinamismo_1.jpg"
 ---
 
 LINEE DINAMICHE

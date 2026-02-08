@@ -2,7 +2,7 @@
 title: "Premio della scultura 2016"
 date: 2016-01-01
 draft: false
-featured_image: "/images/circolo-stampa.jpg"
+featured_image: "images/circolo-stampa.jpg"
 ---
 
 PALAZZO BOCCONI - MILANO   

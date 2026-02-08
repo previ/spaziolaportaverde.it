@@ -2,7 +2,7 @@
 title: "Spoleto arte 2018"
 date: 2018-01-01
 draft: false
-featured_image: "/images/Attestato_Spoleto_Arte_Gabriella_Ventavolirid.jpg"
+featured_image: "images/Attestato_Spoleto_Arte_Gabriella_Ventavolirid.jpg"
 ---
 
 SPOLETO ARTE 2018  

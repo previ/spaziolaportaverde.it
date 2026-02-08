@@ -2,7 +2,7 @@
 title: "Premio della giuria 2019"
 date: 2019-01-01
 draft: false
-featured_image: "/images/Location.jpg"
+featured_image: "images/Location.jpg"
 ---
 
 {{< img src="images/Location.jpg" alt="" >}}

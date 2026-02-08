@@ -2,7 +2,7 @@
 title: "Kalia"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Spaziatore.jpg"
+featured_image: "images/Spaziatore.jpg"
 ---
 
 KALIA

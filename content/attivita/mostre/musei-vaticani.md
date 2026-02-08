@@ -2,7 +2,7 @@
 title: "Musei vaticani"
 date: 2019-01-01
 draft: false
-featured_image: "/images/Museo_Vaticano_Arte_Contemporanea.png"
+featured_image: "images/Museo_Vaticano_Arte_Contemporanea.png"
 ---
 
 {{< img src="images/Museo_Vaticano_Arte_Contemporanea.png" alt="" >}}

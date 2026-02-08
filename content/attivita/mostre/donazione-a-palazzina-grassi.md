@@ -2,7 +2,7 @@
 title: "Donazione a palazzina grassi"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Intestazione.png"
+featured_image: "images/Intestazione.png"
 ---
 
 DA 'IL GIORNALE.IT'

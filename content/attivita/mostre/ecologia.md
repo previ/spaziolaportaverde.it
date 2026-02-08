@@ -2,7 +2,7 @@
 title: "Ecologia"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Inquinamento.jpg"
+featured_image: "images/Inquinamento.jpg"
 ---
 
 AMBIENTE E VITA - OPERE SULL'ECOLOGIA

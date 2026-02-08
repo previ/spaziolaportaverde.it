@@ -2,7 +2,7 @@
 title: "Natura naturans"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Vista_1.JPG"
+featured_image: "images/Vista_1.JPG"
 ---
 
 NATURA NATURANS

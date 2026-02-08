@@ -2,7 +2,7 @@
 title: "La donna e larte contro ogni forma di violenza"
 date: 2019-01-01
 draft: false
-featured_image: "/images/Locandina.JPG"
+featured_image: "images/Locandina.JPG"
 ---
 
 {{< img src="images/Locandina.JPG" alt="" >}}

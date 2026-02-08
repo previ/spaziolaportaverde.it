@@ -2,7 +2,7 @@
 title: "71 storie"
 date: 2008-01-01
 draft: false
-featured_image: "/images/71_Storie.jpg"
+featured_image: "images/71_Storie.jpg"
 ---
 
 71 STORIE DI COCAINA ED ALTRO

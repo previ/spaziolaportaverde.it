@@ -2,7 +2,7 @@
 title: "Ulteriori commenti"
 date: 2014-01-01
 draft: false
-featured_image: "/images/Lo_spazio.jpg"
+featured_image: "images/Lo_spazio.jpg"
 ---
 
 ULTERIORI COMMENTI DEL PROF. CARLO FRANZA

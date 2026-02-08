@@ -2,7 +2,7 @@
 title: "Note biografiche"
 date: 1976-01-01
 draft: false
-featured_image: "/images/Lo_spazio.jpg"
+featured_image: "images/Lo_spazio.jpg"
 ---
 
 BIOGRAFIA REDATTA DA SABRINA FALZONE

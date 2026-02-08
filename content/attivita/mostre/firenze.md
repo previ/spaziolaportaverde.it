@@ -2,7 +2,7 @@
 title: "Firenze"
 date: 2016-01-01
 draft: false
-featured_image: "/images/Palazzoborghese.JPG"
+featured_image: "images/Palazzoborghese.JPG"
 ---
 
 {{< img src="images/Palazzoborghese.JPG" alt="" >}}

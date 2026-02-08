@@ -2,7 +2,7 @@
 title: "Serata poeti"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Immagine_invito.jpg"
+featured_image: "images/Immagine_invito.jpg"
 ---
 
 {{< img src="images/Immagine_invito.jpg" alt="" >}}

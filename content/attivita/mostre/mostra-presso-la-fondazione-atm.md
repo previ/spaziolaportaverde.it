@@ -2,7 +2,7 @@
 title: "Mostra presso la fondazione atm"
 date: 2000-01-01
 draft: false
-featured_image: "/images/Invito.jpg"
+featured_image: "images/Invito.jpg"
 ---
 
 GABRIELLA VENTAVOLI

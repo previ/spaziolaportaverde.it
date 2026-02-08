@@ -2,7 +2,7 @@
 title: "Coraggio e bellezza"
 date: 2014-01-01
 draft: false
-featured_image: "/images/Malala.JPG"
+featured_image: "images/Malala.JPG"
 ---
 
 CORAGGIO E BELLEZZA

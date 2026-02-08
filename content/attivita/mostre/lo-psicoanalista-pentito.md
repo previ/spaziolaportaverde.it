@@ -2,7 +2,7 @@
 title: "Lo psicoanalista pentito"
 date: 2014-01-01
 draft: false
-featured_image: "/images/Lo_psicoanalista_pentito.jpg"
+featured_image: "images/Lo_psicoanalista_pentito.jpg"
 ---
 
 LO PSICOANALISTA PENTITO

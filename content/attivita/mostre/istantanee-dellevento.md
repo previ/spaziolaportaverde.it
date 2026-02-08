@@ -2,7 +2,7 @@
 title: "AMBIENTE E SALUTE AD AREZZO"
 date: 2000-01-01
 draft: false
-featured_image: "/images/DSC02184.JPG"
+featured_image: "images/DSC02184.JPG"
 ---
 
 AMBIENTE E SALUTE AD AREZZO

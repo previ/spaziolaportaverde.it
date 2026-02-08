@@ -2,7 +2,7 @@
 title: "Mostra rose rosse su di noi"
 date: 2022-01-01
 draft: false
-featured_image: "/images/Mosaico2.jpg"
+featured_image: "images/Mosaico2.jpg"
 ---
 
 GABRIELLA VENTAVOLI

@@ -2,7 +2,7 @@
 title: "Spoleto arte 2017 premio sgarbi"
 date: 2017-01-01
 draft: false
-featured_image: "/images/Sala_conferenze.jpg"
+featured_image: "images/Sala_conferenze.jpg"
 ---
 
 SPOLETO ARTE 2017-PREMIO SGARBI  

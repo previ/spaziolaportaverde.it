@@ -2,7 +2,7 @@
 title: "Etica"
 date: 2013-01-01
 draft: false
-featured_image: "/images/Etica_fronte.jpg"
+featured_image: "images/Etica_fronte.jpg"
 ---
 
 ETICA ED ESTETICA PER LA PSICOANALISI

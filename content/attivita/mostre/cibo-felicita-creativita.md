@@ -2,7 +2,7 @@
 title: "Cibo felicita creativita"
 date: 2015-01-01
 draft: false
-featured_image: "/images/Banner.jpg"
+featured_image: "images/Banner.jpg"
 ---
 
 {{< img src="images/Banner.jpg" alt="" >}}
