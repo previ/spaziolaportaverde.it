@@ -16,7 +16,7 @@
           {{ $img := (.Params.featured_image) | relURL }}
           {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
           {{ $bp = strings.TrimRight $bp "/" }}
-          {{ $img = replaceRE (printf "^%s" $bp) "" $img }}
+          {{ $img = strings.TrimPrefix $img $bp }}
           <a href="{{ .RelPermalink }}">
             <img src="{{ $img }}" alt="{{ .Title }}" class="db ba b--black-10">
           </a>
