@@ -1,0 +1,17 @@
+services:
+  hugo:
+    image: hugomods/hugo:latest
+    container_name: hugo-dev
+    volumes:
+      - .:/src
+    ports:
+      - "1313:1313"
+    command: server --bind 0.0.0.0 --buildDrafts --buildFuture --disableFastRender
+
+  scraper:
+    image: python:3.9-slim
+    container_name: scraper
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: /bin/sh -c "pip install beautifulsoup4 requests && python scraper.py"

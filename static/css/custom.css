@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:weight@400;700&family=Inter:wght@300;400;600&display=swap');
+
+:root {
+    --cmc-teal: #00A19C;
+    --cmc-black: #000000;
+    --cmc-grey: #333333;
+    --cmc-light-grey: #f8f8f8;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: var(--cmc-grey);
+    background-color: white;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--cmc-black);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+}
+
+header {
+    background-color: white !important;
+    border-bottom: 1px solid #eee;
+}
+
+.bg-white {
+    background-color: white !important;
+}
+
+a {
+    color: var(--cmc-teal);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--cmc-black);
+}
+
+/* Navigation */
+nav a {
+    color: var(--cmc-black) !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+nav a:hover {
+    color: var(--cmc-teal) !important;
+}
+
+/* Hero Section */
+.hero-custom {
+    position: relative;
+    padding: 100px 0;
+    text-align: center;
+    background-image: url('/images/Lo_spazio.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.hero-custom::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 1;
+}
+
+.hero-custom .container-xl {
+    position: relative;
+    z-index: 2;
+}
+
+.hero-custom h1,
+.hero-custom p {
+    color: #fff;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+}
+
+/* Cards */
+
+.card-custom {
+    border: none;
+    margin-bottom: 40px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 1.5rem;
+    /* Margin between cards */
+}
+
+/* Fix image container */
+.card-custom a.db {
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px;
+}
+
+.card-custom img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.5s ease;
+}
+
+.card-custom:hover img {
+    transform: scale(1.05);
+}
+
+.card-category {
+    color: var(--cmc-teal);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    border-bottom: 2px solid var(--cmc-teal);
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin: 10px 0;
+}
+
+/* Section Spacing */
+section {
+    padding: 80px 0;
+}
+
+.container-xl {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+@media screen and (min-width: 60em) {
+    .section-title {
+        font-size: 3rem;
+    }
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 80px;
+    position: relative;
+}
+
+.section-title::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 4px;
+    background-color: var(--cmc-teal);
+    margin: 24px auto 0;
+}
+
+/* Widescreen Grid Adjustments */
+@media screen and (min-width: 1200px) {
+    .w-25-xl {
+        width: 25%;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .w-20-xl {
+        width: 20%;
+    }
+}
+
+/* Navigation Spacing */
+@media screen and (min-width: 60em) {
+    nav .group {
+        margin-right: 3rem;
+    }
+}
+
+/* Utility */
+.text-teal {
+    color: var(--cmc-teal);
+}
+
+.bg-teal {
+    background-color: var(--cmc-teal);
+}
+
+/* Custom single page image handling */
+.single-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}

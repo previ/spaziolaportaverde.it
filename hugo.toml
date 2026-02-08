@@ -1,0 +1,71 @@
+baseURL = '/'
+languageCode = 'it-it'
+title = 'Spazio La Porta Verde'
+theme = 'ananke'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  custom_css = ["css/custom.css"]
+  # CMC Colors
+  background_color_class = "bg-white"
+  recent_posts_number = 5
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Attività"
+  url = "/attivita/"
+  weight = 20
+
+[[menu.main]]
+  parent = "Attività"
+  name = "Mostre"
+  url = "/attivita/mostre/"
+  weight = 1
+
+[[menu.main]]
+  parent = "Attività"
+  name = "Libri"
+  url = "/attivita/libri/"
+  weight = 2
+
+[[menu.main]]
+  parent = "Attività"
+  name = "Novità"
+  url = "/attivita/novita/"
+  weight = 3
+
+[[menu.main]]
+  name = "Il Centro"
+  url = "/centro/"
+  weight = 30
+
+[[menu.main]]
+  parent = "Il Centro"
+  name = "Missione"
+  url = "/centro/finalita/"
+  weight = 1
+
+[[menu.main]]
+  parent = "Il Centro"
+  name = "Lo Spazio"
+  url = "/centro/lo-spazio/"
+  weight = 2
+
+[[menu.main]]
+  parent = "Il Centro"
+  name = "Biografia"
+  url = "/centro/biografia/"
+  weight = 3
+
+[[menu.main]]
+  name = "Contatti"
+  url = "/centro/contatti/"
+  weight = 40

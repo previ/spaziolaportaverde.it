@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height">
+  <section class="cf ph3 ph5-l pv3 pv4-l center container-xl tc">
+    <h1 class="f2 f1-l fw7 mb0 text-teal">{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="f4 fw4 mid-gray mt4 center measure-wide">{{ . | markdownify }}</p>
+    {{ end }}
+  </section>
+
+  <section class="cf ph3 ph5-l pv3 center container-xl">
+    <div class="flex flex-wrap -mx2">
+      {{ range .Pages }}
+      <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
+        <div class="card-custom bg-white">
+          {{ if .Params.featured_image }}
+          <a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="db ba b--black-10">
+          </a>
+          {{ end }}
+          <div class="pv3">
+            <span class="card-category">Attribuzione</span>
+            <h2 class="f4 mb2 mt1">
+              <a href="{{ .RelPermalink }}" class="black no-underline hover-teal">{{ .Title }}</a>
+            </h2>
+            <p class="f6 mid-gray mv0">{{ .Summary | truncate 150 }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+  {{ .Content }}
+</article>
+{{ end }}

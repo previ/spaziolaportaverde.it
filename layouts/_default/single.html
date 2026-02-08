@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height">
+    <header class="pv5 ph3 ph5-ns tc bg-white">
+        <div class="container-xl">
+            <h1 class="f1 fw7 mb3 text-teal">{{ .Title }}</h1>
+            <time class="f6 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
+        </div>
+    </header>
+
+    <div class="center container-xl ph3 ph5-ns pv4 mid-gray f4 single-content">
+        <div class="measure-wide center">
+            {{ .Content }}
+        </div>
+    </div>
+</article>
+{{ end }}

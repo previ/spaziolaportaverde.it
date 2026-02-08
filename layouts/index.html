@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="bg-white">
+    <!-- Hero Section -->
+    <section class="hero-custom pv6 ph3">
+        <div class="container-xl tc">
+            <h1 class="f1 f-headline-l fw7 mb3 text-teal">Spazio La Porta Verde</h1>
+            <p class="f3 f2-l fw3 mid-gray mb5">Arte, Natura e Impegno Civile</p>
+            <a href="/attivita/mostre/" class="f4 link dim br2 ph5 pv3 mb2 dib white bg-teal shadow-4">Esplora le
+                Mostre</a>
+        </div>
+    </section>
+
+    <!-- Featured / Recent Section -->
+    <section class="pv5 ph3 center container-xl">
+        <h2 class="section-title">Attività Recenti</h2>
+        <div class="flex flex-wrap -mx2">
+            {{ range (first 5 (where .Site.RegularPages "Section" "attivita")) }}
+            <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
+                <div class="card-custom">
+                    {{ if .Params.featured_image }}
+                    <a href="{{ .RelPermalink }}" class="db mb3">
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="db br2 shadow-4">
+                    </a>
+                    </a>
+                    {{ end }}
+                    <span class="card-category">{{ default "Attività" .Params.type_label }}</span>
+                    <h3 class="card-title">
+                        <a href="{{ .RelPermalink }}" class="black no-underline hover-teal">{{ .Title }}</a>
+                    </h3>
+                    <p class="f6 lh-copy mid-gray">{{ .Summary | truncate 150 }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="pv6 ph3 bg-near-white">
+        <div class="container-xl flex flex-wrap items-center">
+            <div class="w-100 w-50-l pr5-l">
+                <h2 class="section-title tl">Il Centro</h2>
+                <p class="f4 lh-copy mid-gray">
+                    La Porta Verde è un centro culturale orientato alla promozione delle iniziative artistiche aventi
+                    come tema la difesa dell'ambiente e dell'umanità.
+                </p>
+                <a href="/centro/finalita/" class="f5 link dim dib text-teal fw6 mt3">Scopri di più &rarr;</a>
+            </div>
+            <div class="w-100 w-50-l mt4 mt0-l">
+                <img src="/images/Lo_spazio.jpg" alt="Lo Spazio" class="db br2 shadow-4">
+            </div>
+        </div>
+    </section>
+</div>
+{{ end }}

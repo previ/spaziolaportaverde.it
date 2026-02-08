@@ -1,0 +1,75 @@
+<nav class="pv3 ph3 ph4-ns bg-white border-bottom b--light-gray" role="navigation">
+    <div class="flex-l items-center w-100">
+        <div class="flex items-center">
+            <a href="/" class="f3 fw7 no-underline black hover-teal mr4">
+                SPAZIO LA PORTA VERDE
+            </a>
+        </div>
+        <div class="menu-items flex items-center">
+            {{ range site.Menus.main }}
+            <div class="menu-item relative group">
+                <a class="f6 fw6 hover-teal no-underline uppercase black" href="{{ .URL }}">
+                    {{ .Name }}
+                </a>
+                {{ if .HasChildren }}
+                <div
+                    class="absolute left-0 mt2 bg-white ba b--light-gray shadow-4 dn group-hover-db z-999 min-w-150 dropdown-content">
+                    {{ range .Children }}
+                    <a class="db pa3 f6 hover-bg-near-white no-underline black border-bottom b--light-gray"
+                        href="{{ .URL }}">
+                        {{ .Name }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</nav>
+
+<style>
+    .group:hover .dn {
+        display: block;
+    }
+
+    .min-w-150 {
+        min-width: 15rem;
+    }
+
+    /* Full-width, evenly spaced top menu on large screens */
+    .menu-items {
+        display: block;
+    }
+
+    @media screen and (min-width: 60em) {
+        .menu-items {
+            display: flex;
+            width: 100%;
+            align-items: center;
+        }
+
+        .menu-items .menu-item {
+            flex: 1 1 auto;
+            text-align: center;
+            margin-right: 0;
+        }
+
+        .menu-items .menu-item .dropdown-content {
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    }
+
+    /* Invisible bridge to prevent menu from closing when moving mouse over the gap */
+    .dropdown-content::before {
+        content: "";
+        display: block;
+        position: absolute;
+        top: -2rem;
+        left: 0;
+        width: 100%;
+        height: 2rem;
+        background: transparent;
+    }
+</style>
