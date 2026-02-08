@@ -70,16 +70,6 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Debug: list generated public files
-        if: always()
-        run: |
-          echo "== public files =="
-          if [ -d public ]; then
-            find public -type f | sed -e 's|^|/public/|' | head -n 200
-            echo "== end listing =="
-          else
-            echo "public directory not found"
-          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
