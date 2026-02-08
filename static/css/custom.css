@@ -63,7 +63,8 @@ nav a:hover {
     position: relative;
     padding: 100px 0;
     text-align: center;
-    background-image: url('/images/Lo_spazio.jpg');
+    /* background-image moved to template so it's generated relative to baseURL */
+    background-image: none;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

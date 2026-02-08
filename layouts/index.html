@@ -1,6 +1,9 @@
 {{ define "main" }}
 <div class="bg-white">
     <!-- Hero Section -->
+    <style>
+    .hero-custom { background-image: url('{{ "images/Lo_spazio.jpg" | relURL }}'); }
+    </style>
     <section class="hero-custom pv6 ph3">
         <div class="container-xl tc">
             <h1 class="f1 f-headline-l fw7 mb3 text-teal">Spazio La Porta Verde</h1>
@@ -46,7 +49,7 @@
                 <a href="/centro/finalita/" class="f5 link dim dib text-teal fw6 mt3">Scopri di più &rarr;</a>
             </div>
             <div class="w-100 w-50-l mt4 mt0-l">
-                <img src="/images/Lo_spazio.jpg" alt="Lo Spazio" class="db br2 shadow-4">
+                <img src="{{ "images/Lo_spazio.jpg" | relURL }}" alt="Lo Spazio" class="db br2 shadow-4">
             </div>
         </div>
     </section>
