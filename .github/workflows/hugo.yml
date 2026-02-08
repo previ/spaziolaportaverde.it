@@ -37,6 +37,18 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Init submodules and Hugo modules
+        run: |
+          # Ensure submodules are initialized and updated
+          git submodule sync --recursive || true
+          git submodule update --init --recursive || true
+          # Try to fetch Hugo modules (if site uses Hugo Modules)
+          if command -v hugo >/dev/null 2>&1; then
+            hugo mod get -u all || true
+          else
+            echo "hugo not installed yet; skipping hugo mod get"
+          fi
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
