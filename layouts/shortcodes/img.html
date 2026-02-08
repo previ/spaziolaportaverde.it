@@ -3,8 +3,13 @@
    Ensures the image `src` is passed through Hugo `relURL` so it's relative to the site's baseURL.
 */}}
 {{/* compute relURL then strip the site base path (if any) so generated src is root-relative like /images/... */}}
-{{ $src := (.Get "src") | relURL }}
-{{ $basepath := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
-{{ $basepath = strings.TrimRight $basepath "/" }}
-{{ $src = replaceRE (printf "^%s" $basepath) "" $src }}
+{{ $raw := .Get "src" }}
+{{ $src := "" }}
+{{ if or (hasPrefix $raw "http://") (hasPrefix $raw "https://") }}
+   {{ $src = $raw }}
+{{ else if hasPrefix $raw "/" }}
+   {{ $src = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $raw "/") }}
+{{ else }}
+   {{ $src = $raw | absURL }}
+{{ end }}
 <img src="{{ $src }}"{{ with .Get "alt" }} alt="{{ . }}"{{ end }}{{ with .Get "class" }} class="{{ . }}"{{ end }}{{ with .Get "width" }} width="{{ . }}"{{ end }}{{ with .Get "height" }} height="{{ . }}"{{ end }}{{ with .Get "title" }} title="{{ . }}"{{ end }}>

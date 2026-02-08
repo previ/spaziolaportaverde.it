@@ -2,7 +2,7 @@
 title: "Intervista"
 date: 2000-01-01
 draft: false
-featured_image: "images/Lo_spazio.jpg"
+featured_image: "/images/Lo_spazio.jpg"
 ---
 
 INTERVISTA PRESSO INFORMAZIONE.IT

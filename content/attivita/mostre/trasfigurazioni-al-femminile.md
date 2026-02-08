@@ -2,7 +2,7 @@
 title: "Trasfigurazioni al femminile"
 date: 2000-01-01
 draft: false
-featured_image: "images/Il_volo.jpg"
+featured_image: "/images/Il_volo.jpg"
 ---
 
 TRASFIGURAZIONI AL FEMMINILE

@@ -2,7 +2,7 @@
 title: "Chi Siamo"
 date: 2024-02-05
 draft: false
-featured_image: "images/Foto_Artista.jpg"
+featured_image: "/images/Foto_Artista.jpg"
 menu:
   main:
     parent: "Centro"

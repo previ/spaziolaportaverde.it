@@ -2,7 +2,7 @@
 title: "Premio biennale sgarbi"
 date: 2019-01-01
 draft: false
-featured_image: "images/Attestato_Premio_Biennale_Sgarbi.jpg"
+featured_image: "/images/Attestato_Premio_Biennale_Sgarbi.jpg"
 ---
 
 PREMIO BIENNALE SGARBI 2019

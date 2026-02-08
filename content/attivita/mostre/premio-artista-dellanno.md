@@ -2,7 +2,7 @@
 title: "Premio artista dellanno"
 date: 2015-01-01
 draft: false
-featured_image: "images/circolo-stampa.jpg"
+featured_image: "/images/circolo-stampa.jpg"
 ---
 
 PALAZZO BOCCONI - MILANO   

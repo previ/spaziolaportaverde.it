@@ -2,7 +2,7 @@
 title: "Ritratti di uomini"
 date: 2000-01-01
 draft: false
-featured_image: "images/Ambiguita__1.jpg"
+featured_image: "/images/Ambiguita__1.jpg"
 ---
 
 RITRATTI DI UOMINI

@@ -2,7 +2,7 @@
 title: "Poesie per la vita 2"
 date: 2014-01-01
 draft: false
-featured_image: "images/Poesie_per_la_vita_2.jpg"
+featured_image: "/images/Poesie_per_la_vita_2.jpg"
 ---
 
 POESIE PER LA VITA VOL 2

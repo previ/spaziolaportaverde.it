@@ -2,7 +2,7 @@
 title: "Indexeng"
 date: 2000-01-01
 draft: false
-featured_image: "images/sfondo.jpg"
+featured_image: "/images/sfondo.jpg"
 ---
 
 SPACE "LA PORTA VERDE"

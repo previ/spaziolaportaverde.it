@@ -2,7 +2,7 @@
 title: "Mostra premio vele darte"
 date: 2000-01-01
 draft: false
-featured_image: "images/Premio_Vele_d_Arte.jpg"
+featured_image: "/images/Premio_Vele_d_Arte.jpg"
 ---
 
 MOSTRA-PREMIO VELE D'ARTE

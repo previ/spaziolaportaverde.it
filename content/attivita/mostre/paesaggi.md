@@ -2,7 +2,7 @@
 title: "Paesaggi"
 date: 2000-01-01
 draft: false
-featured_image: "images/Danza_nel_bosco.jpg"
+featured_image: "/images/Danza_nel_bosco.jpg"
 ---
 
 LINEE DINAMICHE

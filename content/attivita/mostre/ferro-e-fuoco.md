@@ -2,7 +2,7 @@
 title: "Ferro e fuoco"
 date: 2000-01-01
 draft: false
-featured_image: "images/Angelo_nel_fuoco_1.jpg"
+featured_image: "/images/Angelo_nel_fuoco_1.jpg"
 ---
 
 FERRO E FUOCO: OPERE SUL LAVORO

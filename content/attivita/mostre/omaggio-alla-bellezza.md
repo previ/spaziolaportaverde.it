@@ -2,7 +2,7 @@
 title: "Omaggio alla bellezza"
 date: 2000-01-01
 draft: false
-featured_image: "images/Ballando.jpg"
+featured_image: "/images/Ballando.jpg"
 ---
 
 OMAGGIO ALLA BELLEZZA

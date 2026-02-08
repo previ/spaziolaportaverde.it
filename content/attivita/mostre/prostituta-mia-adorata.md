@@ -2,7 +2,7 @@
 title: "Prostituta mia adorata"
 date: 2018-01-01
 draft: false
-featured_image: "images/Prostituta_mia_adorata.jpg"
+featured_image: "/images/Prostituta_mia_adorata.jpg"
 ---
 
 PROSTITUTA MIA ADORATA

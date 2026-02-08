@@ -2,7 +2,7 @@
 title: "Mostra antologica di gabriella ventavoli 2017"
 date: 2017-01-01
 draft: false
-featured_image: "images/IMG_0498_rid.JPG"
+featured_image: "/images/IMG_0498_rid.JPG"
 ---
 
 MOSTRA ANTOLOGICA DI GABRIELLA VENTAVOLI 2017

@@ -2,7 +2,7 @@
 title: "Tossicomanie"
 date: 2002-01-01
 draft: false
-featured_image: "images/Tossicomanie.jpg"
+featured_image: "/images/Tossicomanie.jpg"
 ---
 
 TOSSICOMANIE UN'EPIDEMIA PSICOSOCIALE

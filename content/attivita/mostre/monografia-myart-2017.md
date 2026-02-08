@@ -2,7 +2,7 @@
 title: "Monografia myart 2017"
 date: 2017-01-01
 draft: false
-featured_image: "images/Lo_spazio.jpg"
+featured_image: "/images/Lo_spazio.jpg"
 ---
 
 MONOGRAFIA MYART DI EA EDITORE 2017

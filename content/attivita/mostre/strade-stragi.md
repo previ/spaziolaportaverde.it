@@ -2,7 +2,7 @@
 title: "Strade stragi"
 date: 2000-01-01
 draft: false
-featured_image: "images/Sangue_sulle_strade_1.jpg"
+featured_image: "/images/Sangue_sulle_strade_1.jpg"
 ---
 
 STRADE STRAGI

@@ -2,7 +2,7 @@
 title: "La donna"
 date: 2016-01-01
 draft: false
-featured_image: "images/Invito.JPG"
+featured_image: "/images/Invito.JPG"
 ---
 
 {{< img src="images/Invito.JPG" alt="" >}}

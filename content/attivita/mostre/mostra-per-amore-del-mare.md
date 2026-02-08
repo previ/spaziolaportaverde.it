@@ -2,7 +2,7 @@
 title: "Mostra per amore del mare"
 date: 2000-01-01
 draft: false
-featured_image: "images/Per_amore_del_mare.JPG"
+featured_image: "/images/Per_amore_del_mare.JPG"
 ---
 
 {{< img src="images/Per_amore_del_mare.JPG" alt="" >}}

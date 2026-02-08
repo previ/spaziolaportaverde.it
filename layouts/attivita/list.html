@@ -12,14 +12,57 @@
       {{ range .Pages }}
       <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
         <div class="card-custom bg-white">
+          {{/* Determine thumbnail: prefer .Params.featured_image, else extract first inline <img> src from content (skip video links) */}}
+          {{ $img := "" }}
           {{ if .Params.featured_image }}
-          {{ $img := (.Params.featured_image) | relURL }}
-          {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
-          {{ $bp = strings.TrimRight $bp "/" }}
-          {{ $img = strings.TrimPrefix $img $bp }}
+            {{ $src := .Params.featured_image }}
+            {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+              {{ $img = $src }}
+            {{ else if hasPrefix $src "/" }}
+              {{ $img = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $src "/") }}
+            {{ else }}
+              {{ $img = $src | absURL }}
+            {{ end }}
+          {{ else }}
+            {{ $reImg := `(?i)img[^>]+src=['"]([^'"]+)['"]` }}
+            {{ $matches := findRE $reImg .Content }}
+            {{ if gt (len $matches) 0 }}
+              {{ $first := index $matches 0 }}
+              {{ $src := replaceRE $reImg "$1" $first }}
+                {{ if not (or (in $src "youtube") (in $src "vimeo") (in $src "youtu.be")) }}
+                  {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+                    {{ $img = $src }}
+                  {{ else if hasPrefix $src "/" }}
+                    {{ $img = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $src "/") }}
+                  {{ else }}
+                    {{ $img = $src | absURL }}
+                  {{ end }}
+                {{ end }}
+            {{ else }}
+              {{ $reMD := `!\[[^\]]*\]\(([^)]+)\)` }}
+              {{ $m2 := findRE $reMD .Content }}
+              {{ if gt (len $m2) 0 }}
+                {{ $first := index $m2 0 }}
+                {{ $src := replaceRE $reMD "$1" $first }}
+                {{ if not (or (in $src "youtube") (in $src "vimeo") (in $src "youtu.be")) }}
+                  {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+                    {{ $img = $src }}
+                  {{ else if hasPrefix $src "/" }}
+                    {{ $img = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $src "/") }}
+                  {{ else }}
+                    {{ $img = $src | absURL }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if not (gt (len (strings.TrimSpace $img)) 0) }}
+            {{ $img = ("images/Lo_spazio.jpg") | absURL }}
+          {{ end }}
+          {{ if gt (len (strings.TrimSpace $img)) 0 }}
           <a href="{{ .RelPermalink }}">
             <div style="width:100%;height:180px;overflow:hidden;">
-              <img src="{{ $img }}" alt="{{ .Title }}" class="db ba b--black-10" style="width:100%;height:100%;object-fit:cover;">
+              <img src="{{ $img }}" alt="{{ .Title }}" data-img="{{ $img }}" class="db ba b--black-10" style="width:100%;height:100%;object-fit:cover;">
             </div>
           </a>
           {{ end }}

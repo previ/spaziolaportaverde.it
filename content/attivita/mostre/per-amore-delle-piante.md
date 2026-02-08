@@ -2,7 +2,7 @@
 title: "Per amore delle piante"
 date: 2018-01-01
 draft: false
-featured_image: "images/9_Sognando_Amazzonia_rid.jpg"
+featured_image: "/images/9_Sognando_Amazzonia_rid.jpg"
 ---
 
 PER AMORE DELLE PIANTE

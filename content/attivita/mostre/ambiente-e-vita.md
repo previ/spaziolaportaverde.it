@@ -2,7 +2,7 @@
 title: "AMBIENTE E VITA"
 date: 2000-01-01
 draft: false
-featured_image: "images/Africa.jpg"
+featured_image: "/images/Africa.jpg"
 ---
 
 MOSTRE

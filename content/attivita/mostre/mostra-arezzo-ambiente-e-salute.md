@@ -2,7 +2,7 @@
 title: "Mostra arezzo ambiente e salute"
 date: 2013-01-01
 draft: false
-featured_image: "images/Palazzetto_della_Fraternita.jpg"
+featured_image: "/images/Palazzetto_della_Fraternita.jpg"
 ---
 
 AMBIENTE E SALUTE

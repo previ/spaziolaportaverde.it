@@ -2,7 +2,7 @@
 title: "Lultima cena"
 date: 2015-01-01
 draft: false
-featured_image: "images/Polittico.jpg"
+featured_image: "/images/Polittico.jpg"
 ---
 
 L'ULTIMA CENA

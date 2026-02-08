@@ -2,7 +2,7 @@
 title: "Immagini della violenza"
 date: 2000-01-01
 draft: false
-featured_image: "images/Angelo_caduto.jpg"
+featured_image: "/images/Angelo_caduto.jpg"
 ---
 
 IMMAGINI DELLA VIOLENZA

@@ -2,7 +2,7 @@
 title: "Biennale della creativita"
 date: 2014-01-01
 draft: false
-featured_image: "images/DSC_0044.jpg"
+featured_image: "/images/DSC_0044.jpg"
 ---
 
 BIENNALE DELLA CREATIVITA'

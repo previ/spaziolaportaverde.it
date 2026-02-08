@@ -2,7 +2,7 @@
 title: "Finalita"
 date: 2000-01-01
 draft: false
-featured_image: ""
+featured_image: "/images/Lo_spazio.jpg"
 ---
 
 

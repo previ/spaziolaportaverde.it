@@ -2,7 +2,7 @@
 title: "OPERE ESPOSTE NELLE TRE GIORNATE CONTRO LA VIOLENZA SULLA DONNA E LA NATURA"
 date: 2000-01-01
 draft: false
-featured_image: "images/Farfalla_ferita_per_locandina.jpg"
+featured_image: "/images/Farfalla_ferita_per_locandina.jpg"
 ---
 
 OPERE ESPOSTE NELLE TRE GIORNATE CONTRO LA VIOLENZA SULLA DONNA E LA NATURA

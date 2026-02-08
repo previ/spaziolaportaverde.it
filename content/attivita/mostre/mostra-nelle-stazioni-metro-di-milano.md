@@ -2,7 +2,7 @@
 title: "Mostra nelle stazioni metro di milano"
 date: 2023-01-01
 draft: false
-featured_image: "images/separatore.jpg"
+featured_image: "/images/separatore.jpg"
 ---
 
 In concomitanza con la

@@ -2,7 +2,7 @@
 title: "Fame e spreco"
 date: 2000-01-01
 draft: false
-featured_image: "images/La_fame_e_la_violenza.jpg"
+featured_image: "/images/La_fame_e_la_violenza.jpg"
 ---
 
 FAME E SPRECO

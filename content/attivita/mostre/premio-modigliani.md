@@ -2,7 +2,7 @@
 title: "Premio modigliani"
 date: 2018-01-01
 draft: false
-featured_image: "images/Palazzo.jpg"
+featured_image: "/images/Palazzo.jpg"
 ---
 
 LA PREMIAZIONE

@@ -2,7 +2,7 @@
 title: "Inquinamento"
 date: 2000-01-01
 draft: false
-featured_image: "images/Inquinamento.jpg"
+featured_image: "/images/Inquinamento.jpg"
 ---
 
 **INQUINAMENTO**   acrilico su tela cm 150x100

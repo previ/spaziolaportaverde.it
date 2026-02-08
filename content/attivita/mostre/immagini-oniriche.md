@@ -2,7 +2,7 @@
 title: "Immagini oniriche"
 date: 2000-01-01
 draft: false
-featured_image: "images/Amiamoci.jpg"
+featured_image: "/images/Amiamoci.jpg"
 ---
 
 IMMAGINI ONIRICHE

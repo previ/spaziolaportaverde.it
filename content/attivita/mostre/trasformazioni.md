@@ -2,7 +2,7 @@
 title: "Trasformazioni"
 date: 2003-01-01
 draft: false
-featured_image: "images/Trasformazioni.jpg"
+featured_image: "/images/Trasformazioni.jpg"
 ---
 
 TRASFORMAZIONI

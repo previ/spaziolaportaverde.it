@@ -2,7 +2,7 @@
 title: "Violenza sulle donne e linfanzia"
 date: 2000-01-01
 draft: false
-featured_image: "images/Pieta_.jpg"
+featured_image: "/images/Pieta_.jpg"
 ---
 
 VIOLENZA SULLE DONNE E L'INFANZIA

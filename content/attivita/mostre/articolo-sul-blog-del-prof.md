@@ -2,7 +2,7 @@
 title: "Articolo sul blog del prof"
 date: 2015-01-01
 draft: false
-featured_image: "images/Lo_spazio.jpg"
+featured_image: "/images/Lo_spazio.jpg"
 ---
 
 PRESENTAZIONE DEL PROF. CARLO FRANZA

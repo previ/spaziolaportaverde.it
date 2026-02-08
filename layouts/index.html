@@ -1,10 +1,15 @@
 {{ define "main" }}
 <div class="bg-white">
     <!-- Hero Section -->
-    {{ $hero := ("images/Lo_spazio.jpg") | relURL }}
-    {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
-    {{ $bp = strings.TrimRight $bp "/" }}
-    {{ $hero = replaceRE (printf "^%s" $bp) "" $hero }}
+        {{ $rawHero := "images/Lo_spazio.jpg" }}
+        {{ $hero := "" }}
+        {{ if or (hasPrefix $rawHero "http://") (hasPrefix $rawHero "https://") }}
+            {{ $hero = $rawHero }}
+        {{ else if hasPrefix $rawHero "/" }}
+            {{ $hero = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $rawHero "/") }}
+        {{ else }}
+            {{ $hero = $rawHero | absURL }}
+        {{ end }}
     <style>
     .hero-custom { background-image: url('{{ $hero }}'); }
     </style>
@@ -24,16 +29,24 @@
             {{ range (first 5 (where .Site.RegularPages "Section" "attivita")) }}
             <div class="w-100 w-50-m w-33-l w-25-xl w-20-xl px2 mb4">
                 <div class="card-custom">
-                    {{ if .Params.featured_image }}
-                    {{ $img := (.Params.featured_image) | relURL }}
-                    {{ $bp := replaceRE "^https?://[^/]+" "" .Site.BaseURL }}
-                    {{ $bp = strings.TrimRight $bp "/" }}
-                    {{ $img = replaceRE (printf "^%s" $bp) "" $img }}
-                    <a href="{{ .RelPermalink }}" class="db mb3">
-                        <img src="{{ $img }}" alt="{{ .Title }}" class="db br2 shadow-4">
-                    </a>
-
-                    {{ end }}
+                                        {{ $img := "" }}
+                                                        {{ $img := "" }}
+                                                        {{ if .Params.featured_image }}
+                                                            {{ $src := .Params.featured_image }}
+                                                            {{ if or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+                                                                {{ $img = $src }}
+                                                            {{ else if hasPrefix $src "/" }}
+                                                                {{ $img = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $src "/") }}
+                                                            {{ else }}
+                                                                {{ $img = $src | absURL }}
+                                                            {{ end }}
+                                                        {{ end }}
+                                                        {{ if not (gt (len (strings.TrimSpace $img)) 0) }}
+                                                            {{ $img = ("images/Lo_spazio.jpg") | absURL }}
+                                                        {{ end }}
+                                                        <a href="{{ .RelPermalink }}" class="db mb3">
+                                                                <img src="{{ $img }}" alt="{{ .Title }}" class="db br2 shadow-4">
+                                                        </a>
                     <span class="card-category">{{ default "Attività" .Params.type_label }}</span>
                     <h3 class="card-title">
                         <a href="{{ .RelPermalink }}" class="black no-underline hover-teal">{{ .Title }}</a>
@@ -56,9 +69,18 @@
                 </p>
                 <a href="/centro/finalita/" class="f5 link dim dib text-teal fw6 mt3">Scopri di più &rarr;</a>
             </div>
-            <div class="w-100 w-50-l mt4 mt0-l">
-                <img src="{{ "images/Lo_spazio.jpg" | relURL }}" alt="Lo Spazio" class="db br2 shadow-4">
-            </div>
+                                <div class="w-100 w-50-l mt4 mt0-l">
+                                {{ $aboutImgRaw := "images/Lo_spazio.jpg" }}
+                                {{ $aboutImg := "" }}
+                                {{ if or (hasPrefix $aboutImgRaw "http://") (hasPrefix $aboutImgRaw "https://") }}
+                                    {{ $aboutImg = $aboutImgRaw }}
+                                {{ else if hasPrefix $aboutImgRaw "/" }}
+                                    {{ $aboutImg = printf "%s%s" .Site.BaseURL (strings.TrimPrefix $aboutImgRaw "/") }}
+                                {{ else }}
+                                    {{ $aboutImg = $aboutImgRaw | absURL }}
+                                {{ end }}
+                                <img src="{{ $aboutImg }}" alt="Lo Spazio" class="db br2 shadow-4">
+                        </div>
         </div>
     </section>
 </div>

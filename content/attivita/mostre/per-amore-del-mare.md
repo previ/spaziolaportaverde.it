@@ -2,7 +2,7 @@
 title: "Per amore del mare"
 date: 2000-01-01
 draft: false
-featured_image: "images/Come_le_onde.jpg"
+featured_image: "/images/Come_le_onde.jpg"
 ---
 
 PER AMORE DEL MARE

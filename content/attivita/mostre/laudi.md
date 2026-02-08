@@ -2,7 +2,7 @@
 title: "Laudi"
 date: 2015-01-01
 draft: false
-featured_image: "images/Plus_Berlin.jpg"
+featured_image: "/images/Plus_Berlin.jpg"
 ---
 
 LAUDI DEL CIELO, DEL MARE E DELLA TERRA E ALTRE STORIE

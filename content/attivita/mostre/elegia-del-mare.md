@@ -2,7 +2,7 @@
 title: "Elegia del mare"
 date: 2014-01-01
 draft: false
-featured_image: "images/Oggetto_marino.jpg"
+featured_image: "/images/Oggetto_marino.jpg"
 ---
 
 ELEGIA DEL MARE
