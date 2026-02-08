@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/spaziolaportaverde.it/'
 languageCode = 'it-it'
 title = 'Spazio La Porta Verde'
 theme = 'ananke'
