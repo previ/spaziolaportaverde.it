@@ -1,0 +1,5 @@
+{{/* Shortcode: img
+   Usage: {{< img src="images/foo.jpg" alt="Alt text" class="..." width="200" height="100" >}}
+   Ensures the image `src` is passed through Hugo `relURL` so it's relative to the site's baseURL.
+*/}}
+<img src="{{ (.Get "src") | relURL }}"{{ with .Get "alt" }} alt="{{ . }}"{{ end }}{{ with .Get "class" }} class="{{ . }}"{{ end }}{{ with .Get "width" }} width="{{ . }}"{{ end }}{{ with .Get "height" }} height="{{ . }}"{{ end }}{{ with .Get "title" }} title="{{ . }}"{{ end }}>

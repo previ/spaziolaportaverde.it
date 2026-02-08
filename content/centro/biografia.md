@@ -10,7 +10,7 @@ featured_image: "/images/GV.jpg"
 <p align="center"><font size="5">
 <br/>BIOGRAFIA DI GABRIELLA VENTAVOLI</font></p>
 <p class="testo">
-<img class="middle" height="270" src="/images/GV.jpg" width="360"/>
+{{< img src="images/GV.jpg" class="middle" width="360" height="270" >}}
 <br/>Nata in Toscana, Gabriella Ventavoli vive e lavora nel capoluogo lombardo.
 
 &#195;&#710; medico psicanalista, pittrice, scrittrice e poetessa.

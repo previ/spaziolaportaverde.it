@@ -14,7 +14,7 @@ menu:
   
   <div class="flex flex-wrap justify-center items-center">
     <div class="w-100 w-50-l ph3 mb4 mb0-l">
-       <img src="/images/Foto_Artista.jpg" class="br3 shadow-4 grow" alt="Gabriella Ventavoli">
+       {{< img src="images/Foto_Artista.jpg" alt="Gabriella Ventavoli" class="br3 shadow-4 grow" >}}
     </div>
     <div class="w-100 w-50-l ph3 tl-l tc">
       <p class="f4 lh-copy mid-gray mb4">
